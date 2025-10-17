@@ -1,501 +1,501 @@
 product_id,product_name,category,price,stock_quantity,created_at
-9fd1830c-4b7b-47f9-9d51-411130550636,Tablet Garcia,Eletrônicos,2046.08,61,2024-10-21 15:42:07
-ee420561-89a8-4764-82a2-c01579e2958d,Tênis Pacheco,Moda,109.48,36,2024-11-26 17:33:20
-c0b596f3-b9d8-4cbb-a2a0-171cc5f7f7e4,Notebook Macedo Ltda.,Eletrônicos,901.99,412,2025-04-10 19:27:57
-adf5cb6f-3782-4139-871a-0b12d3a0cafd,Smartphone Gomes Lopes Ltda.,Eletrônicos,1910.08,451,2024-12-29 15:39:05
-40fa17c5-7e22-42af-b81c-ed0180fee63f,Camiseta Ramos,Moda,222.22,416,2025-04-26 21:25:25
-2409862b-c787-42fb-a7fc-b923c14dd9bf,Tablet Moura,Eletrônicos,4968.23,73,2025-03-29 06:53:54
-6b20c211-462e-45bb-b194-58a86b22183b,Tablet Montenegro,Eletrônicos,3034.81,312,2025-07-15 19:16:13
-6aac0ea4-fd97-4c36-a539-ef7677828e86,Sofá Rezende,Casa,1432.28,369,2025-08-30 07:20:33
-56ebf913-8efc-4633-9fa8-c5e6c8b42b42,Tablet Camargo,Eletrônicos,3867.21,470,2025-01-13 04:07:46
-688536a9-d9bf-4d62-90d4-ac85fa41d012,Tênis da Luz,Moda,358.95,440,2025-01-20 04:28:57
-3c2f9ae4-fde9-449a-9f38-70c73b3cc017,Smartphone Azevedo,Eletrônicos,4534.67,71,2025-09-16 08:56:30
-0f0a309a-c221-4894-baf2-854067f44f7d,Tablet Nunes Dias S.A.,Eletrônicos,3785.04,179,2025-02-16 13:55:37
-0fab05dd-70c7-4ac1-81da-b529cf14562e,Calça Mendes,Moda,405.98,126,2025-04-07 21:42:08
-9286c2b7-95c2-477c-ad9a-14b760911dd5,Tênis da Costa,Moda,87.91,283,2025-03-24 23:21:15
-b87e23dd-f94f-4a97-9390-5adfb840406f,Cadeira Barros Casa Grande S.A.,Casa,2219.3,145,2025-04-19 04:11:58
-242e84f4-36e3-495c-9928-09ab7bd58211,Sofá Macedo,Casa,2574.1,337,2025-02-27 15:01:52
-f0c72e1d-c5e1-48a7-85cc-153a85a675f0,Camiseta Viana - EI,Moda,282.99,260,2024-11-14 12:10:58
-41774336-c7f7-44e2-afa5-0d743fb0abb4,Tablet Farias,Eletrônicos,2262.88,330,2025-03-01 03:09:56
-c5b489e8-5b91-4bb4-b5ad-8f26c6f33a49,Smartphone Cardoso Siqueira S.A.,Eletrônicos,2726.99,57,2025-08-09 01:54:39
-560bc3ae-ee3b-409f-b470-476f982bd253,Notebook Porto S/A,Eletrônicos,3371.37,36,2025-09-16 03:01:52
-dcd51e88-315c-4e29-b523-4897003af60f,Sofá Pastor,Casa,2963.27,478,2024-10-20 06:34:20
-5bb597d5-89b4-44f2-9b11-ca0f106701a3,Camiseta Ferreira,Moda,224.08,429,2025-07-12 20:32:15
-2847689d-662a-4b50-b127-056d1faa060e,Mesa da Conceição,Casa,1223.15,349,2025-03-03 11:53:26
-f0f842cb-14ba-4984-8a47-9d298e29b2f4,Notebook da Paz,Eletrônicos,4795.04,394,2024-10-27 14:57:17
-e67b46c7-e4a0-4a1e-b2ea-dbca9d0deb49,Smartphone Oliveira S.A.,Eletrônicos,3143.14,7,2025-01-25 01:05:37
-dc97c1eb-69ce-4dc1-92f2-0e06449f3b38,Camiseta da Rocha Jesus S.A.,Moda,67.92,30,2025-08-25 18:58:20
-5d3c59af-f4fa-4b87-9847-c5e529f2d415,Tênis Caldeira,Moda,178.92,364,2025-10-08 23:09:41
-118c1d5b-b638-4633-bf62-9fa79baa7a42,Mesa Pimenta da Conceição S.A.,Casa,1386.01,205,2025-09-23 06:46:05
-61f80106-6e5e-4943-b396-43644e6e6348,Tablet Vasconcelos - ME,Eletrônicos,2914.54,315,2025-02-15 14:08:52
-cdcdb508-090f-4913-b684-e2045088599a,Notebook Freitas Vieira S.A.,Eletrônicos,876.19,40,2025-09-01 00:27:32
-9fd6fa1e-7feb-4a46-b8b3-02bc52774dda,Sofá Pimenta,Casa,2928.08,79,2025-09-25 21:27:59
-2d63c93e-5ec7-4307-8965-4f7c53b59fb9,Mesa Pacheco,Casa,1294.05,324,2025-06-17 16:38:28
-58499742-9a72-4981-8d3d-19c4fb5ab78c,Cadeira Oliveira - ME,Casa,2000.83,158,2025-10-15 02:55:23
-7197d19e-3f82-441b-bd30-2df14170d731,Mesa Montenegro Cirino e Filhos,Casa,2243.88,433,2025-06-29 21:14:27
-feabe369-b2d1-4516-acfc-21795e5846fd,Smartphone Abreu,Eletrônicos,1600.16,473,2025-04-25 15:51:47
-78a2034b-14dd-4842-bd1c-7b8eccb616f6,Camiseta Teixeira,Moda,254.02,311,2025-06-02 14:15:47
-edd7f1d4-888c-4b98-8152-4616d4ef9993,Notebook Montenegro,Eletrônicos,3497.36,336,2025-06-10 18:55:13
-531b8bd1-51a7-49e4-9010-dd9fa4abd438,Sofá Vasconcelos Sampaio - ME,Casa,534.44,362,2025-10-10 06:20:03
-7578fa5a-38a4-4c00-9b8a-3701d912a456,Tablet Lima,Eletrônicos,551.08,254,2025-01-14 04:46:01
-a7aa0cbc-b6fc-40f9-8643-e74071e4c7d8,Tênis Marques,Moda,282.75,421,2025-01-03 22:48:46
-15a4556a-fa1c-4218-91db-0b37f708cb37,Mesa Lopes Gomes - ME,Casa,667.5,64,2024-10-25 17:26:43
-7899128c-85b7-4f54-b11e-4a430a49787d,Mesa Ribeiro,Casa,2252.22,60,2025-05-11 17:52:03
-c7142add-184c-468b-8309-8122b93b8ad6,Notebook Montenegro,Eletrônicos,4131.99,139,2025-08-07 18:41:09
-2e7f30bd-d1a5-43b8-97e9-58c4a895c3dc,Sofá Albuquerque,Casa,936.26,499,2025-07-31 16:11:19
-39cc0d64-c738-495e-954b-4b649db814c6,Cadeira Rodrigues e Filhos,Casa,415.8,233,2025-01-30 13:20:44
-a66555ac-49d7-4542-ac52-4e228e927091,Mesa Ribeiro,Casa,355.23,439,2024-11-01 17:15:26
-2d65c983-0e26-4ada-b60f-7697b14e05ad,Sofá Peixoto Guerra S.A.,Casa,1229.53,130,2025-09-25 23:47:33
-ae25749e-b91e-499c-a216-5594ba0112a9,Tablet Rodrigues S/A,Eletrônicos,3533.54,59,2024-10-22 01:43:17
-1b3d5730-e8f9-468d-8ef2-c58671883e1f,Tablet Pimenta,Eletrônicos,2789.71,22,2025-01-08 06:30:55
-833fe17a-dc7d-4763-806d-56481938763c,Smartphone Sales Casa Grande - ME,Eletrônicos,706.92,186,2025-02-22 16:42:33
-3ecddaf1-88dd-4e49-a347-132db63e977b,Camiseta Moreira,Moda,130.53,491,2024-12-12 14:45:12
-0345b2ef-f56d-4d09-86b4-b57e279e902f,Tablet Gomes,Eletrônicos,4114.02,365,2025-01-10 13:33:18
-f517e0e9-ddd2-4ca5-9051-14e9fa15cf42,Cadeira Pinto,Casa,1374.23,164,2025-02-03 22:07:22
-6155f731-6769-4031-a978-a14481d06d9e,Notebook Sousa Ltda.,Eletrônicos,4621.35,163,2025-03-20 03:21:18
-f3b11b3d-4ab8-43b8-9769-aced71c6e9ea,Camiseta Azevedo - ME,Moda,307.19,61,2025-03-26 05:56:00
-3ae96f6f-3386-40cd-9551-c83491890750,Cadeira Pacheco Novaes e Filhos,Casa,2725.43,91,2025-09-26 03:44:04
-3d0bfb3b-221e-4cc8-af40-62af4f7e83b0,Tablet Cavalcante,Eletrônicos,4916.36,488,2025-01-25 07:19:57
-100fe801-cd5f-4def-a2c6-baeb7cacd71a,Camiseta Novaes,Moda,444.65,443,2024-11-17 20:37:42
-c01167bf-a957-4dea-9381-0e9cc156f576,Calça Rios,Moda,197.29,283,2024-10-28 07:27:05
-07703f3c-b76a-4147-aa04-1cd2254571f6,Camiseta Abreu,Moda,216.01,149,2025-04-14 12:28:48
-eca9caa8-bf26-4c3f-bb41-c61db4425537,Mesa Teixeira,Casa,2270.81,124,2024-12-28 00:10:05
-668e6e02-b282-4fc1-9828-811fc2dc4bf0,Calça Fonseca S.A.,Moda,316.26,252,2025-07-13 15:57:29
-9818756a-a409-4602-983a-6ae39774bd8b,Tablet Pinto,Eletrônicos,4551.99,389,2025-06-01 15:54:36
-2737c1df-ab86-4f25-a0eb-31032ee2319d,Smartphone Lopes Moreira S.A.,Eletrônicos,528.7,209,2025-08-29 16:45:21
-1beb229b-9329-4cb5-b517-f9887a5c64b2,Smartphone Andrade,Eletrônicos,2936.95,325,2025-07-23 19:22:36
-9cb9d65a-20c0-46dd-a39d-46703b0c9533,Sofá Ferreira S/A,Casa,2862.77,0,2025-08-03 01:31:32
-2a8e7d80-19c7-423c-82e9-ae6869cef964,Mesa Jesus - EI,Casa,2577.22,372,2025-03-16 12:09:38
-58cae9cf-dd15-474a-9286-1161a9344bbb,Camiseta Azevedo Vasconcelos S.A.,Moda,142.34,121,2025-04-29 02:06:13
-b558e978-3437-4446-ba77-5aa0fabcc706,Calça Gomes,Moda,482.53,497,2025-05-03 18:07:52
-85b4efb1-f8b3-4610-9330-e903edb75eff,Tablet Viana,Eletrônicos,1759.21,22,2024-10-26 01:03:24
-bc97fe45-d72d-4109-851c-327702f85827,Tablet Mendes Moreira Ltda.,Eletrônicos,2358.76,458,2025-01-05 17:47:01
-34d81b02-d1d5-4cef-9260-2dd6b7f839aa,Calça Camargo da Paz e Filhos,Moda,488.55,43,2025-05-13 05:59:53
-af67c25d-aa2f-41ef-9e60-bc8e7933b5b5,Sofá Barros,Casa,1615.2,326,2025-01-05 02:53:04
-15dec63d-c3c0-438e-8fa4-7b0986b5e1c3,Camiseta Mendes S.A.,Moda,316.35,31,2024-10-16 16:54:19
-6e529255-6883-4b9f-b111-65daccb2727a,Tênis Sales,Moda,483.9,121,2024-12-24 23:42:55
-45cb923f-4e3e-4402-acea-0adbd61a66aa,Calça Moura Ltda.,Moda,432.91,474,2025-04-27 14:44:20
-439ca162-f34b-43ed-9c3c-0f9e93fc3f5b,Tênis Jesus - EI,Moda,424.35,167,2025-01-19 00:56:32
-029a24be-e28d-483c-ba3f-bbfa651d2f53,Calça Lima Vasconcelos - EI,Moda,172.38,38,2025-09-20 01:00:03
-62b78fa6-6871-4b96-990d-751211cd2d7a,Smartphone Macedo,Eletrônicos,4009.72,299,2024-12-13 21:49:27
-4a1c7acd-2124-4d63-9c0b-0dae5f62215f,Smartphone Lima,Eletrônicos,975.46,230,2025-02-15 11:50:46
-5cd2fcdb-02f8-46c5-9fa9-0d885702739a,Calça Aparecida,Moda,232.93,274,2025-09-22 00:42:33
-38e055ac-69bc-401d-a27b-f003ccdfbac3,Camiseta Mendes,Moda,253.36,237,2025-02-28 10:20:26
-bf26d794-5b00-4171-8719-fa457ce9f2c1,Camiseta Nunes,Moda,90.69,413,2025-02-22 17:00:27
-f08ec3a8-72b5-45af-afe0-25008b50cf78,Mesa Sousa Sá Ltda.,Casa,2513.88,356,2025-01-29 22:13:06
-7a900b55-011e-4932-a45d-5e2ad73ed18e,Sofá Dias e Filhos,Casa,802.06,438,2025-07-19 08:21:28
-27211678-4aad-4fe4-88c5-d23eadc9dd17,Camiseta Mendes,Moda,91.05,127,2025-09-09 13:45:32
-67d52e71-e7b1-43c8-9a98-ad0abedb2253,Calça Fogaça Albuquerque Ltda.,Moda,281.06,346,2024-10-30 01:31:45
-dd483b86-8a10-438c-a7e0-d06200a779d0,Calça Sales,Moda,419.04,89,2025-08-13 03:15:06
-0842f975-f8a3-4812-b433-d6613557482f,Notebook Alves e Filhos,Eletrônicos,4345.71,284,2025-05-01 05:23:07
-0c6dcc44-526e-482d-a82d-0922d25c8f4f,Cadeira Duarte,Casa,899.59,236,2025-04-26 20:21:45
-f0cb4c48-f202-4e2b-8d98-b14c531f1283,Smartphone Cunha Fernandes - ME,Eletrônicos,1046.54,31,2025-04-17 19:25:44
-8d51bc18-4f94-4ee7-926a-af18ba427bc2,Smartphone Viana,Eletrônicos,1391.6,205,2025-04-06 09:45:49
-a2e96b48-dc32-43d9-8c19-d6a2c04be7be,Tênis Aparecida Moura S/A,Moda,333.63,330,2024-12-10 15:13:11
-132563ac-018e-4044-915f-5f20fa892061,Tablet Almeida Ltda.,Eletrônicos,3137.53,469,2024-11-16 01:33:26
-525bc0c9-5a64-46ef-9b57-93a90d51ab10,Smartphone Vieira - ME,Eletrônicos,4987.23,101,2025-07-11 06:52:35
-8d6b338b-8bea-4506-83f5-a0a6e96079b8,Mesa Pacheco,Casa,2466.04,47,2025-01-13 03:44:02
-08164b44-3f25-4934-b120-2e5a719e5c12,Camiseta Garcia,Moda,69.21,236,2024-10-20 19:33:48
-57cc38f5-6287-4ae7-946f-701477d7ebea,Smartphone Lima e Filhos,Eletrônicos,4658.59,221,2025-08-12 01:27:28
-99d001f3-924e-48fc-940e-0dbcdbb37e34,Mesa Fernandes e Filhos,Casa,1589.15,195,2025-02-26 17:24:35
-e081b90f-ecf7-4628-a1f8-49ecca3b1dfd,Mesa Lopes,Casa,683.86,109,2024-11-17 09:51:43
-bf55d033-02b3-4952-b554-ed6fc938dfd6,Notebook Almeida,Eletrônicos,1759.35,452,2025-06-30 03:23:43
-48d6bacf-fa15-41a5-8d26-b1be081ef0d1,Smartphone Ribeiro,Eletrônicos,3263.48,315,2025-06-11 19:09:02
-e8954841-3e9e-4b28-b3da-190683b612a9,Tablet Aparecida S/A,Eletrônicos,1827.97,210,2025-08-30 03:44:37
-3dba39c8-0019-4ac4-a322-83387f405cef,Mesa Farias,Casa,370.74,143,2025-05-05 09:27:30
-b1bdd00a-d1fa-4bf4-9507-533992de21a1,Camiseta Ramos - EI,Moda,238.66,329,2025-05-18 05:42:26
-d7b3bb54-b180-4ce3-b1ce-96666012236b,Sofá Pires Mendes S/A,Casa,1966.11,410,2025-03-13 02:54:02
-13823452-cd8d-4967-b78c-c419dc5d3871,Sofá Rezende - ME,Casa,2970.33,400,2025-02-06 01:39:43
-51b32342-7c07-4afc-8ab7-521bcc39aefe,Mesa Pinto,Casa,1543.12,400,2025-01-12 04:04:29
-3ff97cd3-733b-47ec-a643-76ddb1a1620c,Calça Rezende,Moda,460.7,257,2025-02-19 23:46:14
-ba11ffea-19e2-4879-b2f8-fd7dccc0ef22,Calça Rocha S.A.,Moda,171.7,13,2025-07-30 18:41:20
-15257575-2e1d-4321-b4cd-cb2433fb0690,Tênis Cunha,Moda,148.56,458,2025-05-09 04:51:22
-bc2a3fc3-5f13-4736-89b6-6ce42e2cc6b3,Camiseta da Rocha,Moda,413.89,241,2025-04-11 17:48:40
-3068754f-38ab-4a4d-b568-15e142adb6be,Mesa da Rosa Fonseca Ltda.,Casa,2347.16,119,2025-07-24 11:05:04
-1cfe1906-9135-4bcf-8f00-d760fe1ec959,Smartphone Mendonça S/A,Eletrônicos,1615.36,123,2025-04-25 03:51:25
-18c3d70c-f7cf-443b-a773-cabbb36148a4,Tênis da Costa Ferreira S/A,Moda,417.33,469,2025-07-28 12:40:03
-1b4cf90d-b77e-44a3-8da7-d2ea25c4d163,Sofá Ramos,Casa,2339.34,485,2025-06-16 17:17:45
-fc4d4026-3a52-49a2-84a9-6eb31446c840,Tablet da Mata,Eletrônicos,4309.27,408,2025-06-09 01:23:55
-4abb565c-ecb4-45eb-b940-cb37f9cd46e0,Calça Guerra,Moda,470.84,432,2025-06-29 07:24:36
-ed795f73-2e36-4639-a222-c942eb57f269,Smartphone Vargas S/A,Eletrônicos,1564.48,162,2025-07-09 06:34:00
-8aab6a12-bf58-42cf-9934-71979deaade9,Cadeira Fogaça,Casa,1204.59,302,2025-01-01 02:40:17
-18fe3999-a309-4cc4-a7e2-55f41f499ebb,Tablet da Mata e Filhos,Eletrônicos,3652.52,485,2025-10-06 02:57:23
-6f3c7b14-7f79-4e4b-b38c-2779f91467a0,Cadeira Monteiro,Casa,597.89,485,2025-06-03 14:27:36
-c717103a-334a-46f8-a147-21c8d221a038,Notebook Caldeira,Eletrônicos,2939.56,89,2025-02-02 22:28:13
-ff1e4530-96f4-40bc-9d74-430cc097f81a,Camiseta Camargo,Moda,90.62,119,2025-07-12 14:24:57
-651ddc58-b410-4642-a4c0-ddba93edb592,Sofá Nunes - EI,Casa,255.8,244,2025-04-17 02:52:17
-82cc2e4c-e85d-421b-b992-af8af74d209e,Notebook Costela,Eletrônicos,4630.53,103,2024-11-11 15:13:12
-615ae20d-1a21-4153-b4bf-a146984244b8,Notebook Pastor - EI,Eletrônicos,3726.22,470,2025-10-04 13:21:30
-674404cd-04b0-4d0e-9b0f-7a6f644f69b2,Camiseta Jesus,Moda,59.86,300,2025-10-01 03:19:27
-afe84304-727b-4e53-a9a6-8548ced2e932,Sofá Câmara S/A,Casa,2368.23,433,2025-01-07 17:21:57
-5e324e5a-7648-4b85-90b2-a136ed1de855,Mesa Garcia,Casa,2889.56,191,2025-05-23 22:15:11
-e76fd7bb-aa57-4a00-bbd7-fe7577f9ddf1,Cadeira Novaes Brito Ltda.,Casa,1307.67,51,2024-11-04 17:50:09
-02ef5e76-08b5-48c4-bb75-4b3d32a4825f,Calça da Cunha,Moda,195.17,499,2025-02-11 16:10:52
-732423ef-85c7-4ded-a3f9-75c2735fd829,Tablet Gomes,Eletrônicos,4769.12,405,2025-10-14 07:36:05
-ae147682-2da3-45dd-9245-8bf8c142bd3d,Mesa Macedo,Casa,2017.7,89,2025-01-08 09:14:40
-96b08385-7aa8-4a18-84ea-5f8ebe4b4319,Cadeira Ferreira Câmara - ME,Casa,2141.97,475,2024-11-24 05:32:27
-c218b038-c8ba-48bb-8b2d-e10c70443e95,Mesa Guerra,Casa,825.06,301,2025-05-20 13:18:28
-b37b0065-7e83-4f64-b380-b61f3b33a662,Notebook Gonçalves,Eletrônicos,1880.7,352,2024-12-17 16:23:35
-e279de12-8986-4f26-83b2-068b788b80ef,Camiseta Viana Sá - EI,Moda,129.97,0,2025-02-22 07:37:07
-855fda79-14d5-4c42-b936-8a3607c98ad4,Cadeira Vieira,Casa,1296.48,394,2025-07-15 02:36:02
-3dc8d56b-027b-4a52-b545-668bffc25f52,Sofá Mendonça,Casa,709.83,162,2025-01-26 02:03:57
-af50d05f-c36f-4d4b-ba0c-f069cd604ff8,Sofá Novais S/A,Casa,1991.01,53,2025-06-03 04:51:00
-331de648-9bf5-4676-badb-a07dcea6fced,Camiseta Campos,Moda,199.03,39,2025-04-04 01:48:25
-f9fb4d46-c5dc-4ae9-a315-1fea6391daae,Notebook Rezende Câmara S/A,Eletrônicos,4920.71,85,2025-07-19 19:08:19
-7c9e8a3e-a8ff-4b15-8672-2bdb399ad07b,Sofá Brito,Casa,2500.65,343,2025-09-21 11:49:01
-e09a1264-28fa-4d3d-950c-10f70bb2ab5b,Cadeira da Mota S.A.,Casa,2682.63,228,2025-03-04 13:03:10
-c67398bf-d903-4ba2-a6e7-0244661211f3,Notebook da Luz Ltda.,Eletrônicos,1443.58,354,2025-03-28 08:04:43
-9403321b-8ffe-4a18-a067-53a26feb081b,Notebook Farias,Eletrônicos,1654.96,55,2024-10-29 06:10:49
-d89a67fe-676c-4e81-86f0-5d2019e1eb3a,Sofá da Luz,Casa,334.81,224,2025-07-22 13:54:15
-5845824d-0098-4454-9401-d08c0577c1c5,Mesa Cirino,Casa,2913.49,452,2025-03-21 21:18:07
-44ffbbd8-7307-4519-b7ac-53d69ed84c75,Calça Ferreira,Moda,446.8,179,2025-06-21 22:41:01
-26e5810c-54fe-41f5-85c5-d1299886475a,Mesa Peixoto Vieira - ME,Casa,484.0,245,2025-07-12 12:39:46
-f4f64b15-5814-4a02-99df-d286116c48e7,Cadeira Siqueira,Casa,2323.08,115,2025-10-10 22:02:43
-040cd747-a4c0-4ce9-a5a3-062a0b9ef786,Notebook Borges,Eletrônicos,831.69,433,2025-06-13 18:57:59
-3d35624b-6420-400e-bbc7-c40eaa3447a7,Notebook Câmara e Filhos,Eletrônicos,590.35,133,2025-08-10 11:26:37
-7c7a9784-92e8-494e-82d0-763af537d9a1,Smartphone da Cunha - EI,Eletrônicos,2038.14,454,2025-04-18 14:06:25
-779f1ecb-572b-49b5-b765-003cf53efde9,Camiseta Carvalho,Moda,379.39,280,2024-10-23 10:09:25
-eecb1ced-8367-43f8-904b-8947fac84fce,Notebook Novaes Correia - ME,Eletrônicos,3173.14,314,2025-01-13 19:49:20
-91e7e5e5-9dba-4f23-bdb0-22a6cc6fc15c,Tênis Duarte,Moda,63.95,482,2025-07-11 13:53:31
-b133ed74-a63c-4b14-baa6-c65be4d30f2a,Sofá Cavalcanti,Casa,1900.49,222,2025-08-10 02:14:55
-ac6f41aa-ba86-44c6-9916-a8653cb5493a,Smartphone Abreu,Eletrônicos,955.66,105,2025-06-30 06:57:00
-4a51a669-d229-44b8-872b-2b376c0f2f03,Notebook da Paz,Eletrônicos,3637.39,369,2025-06-13 19:16:59
-7e3e8cab-42e8-4a29-9233-8e1cd84177d4,Cadeira das Neves - ME,Casa,942.74,144,2025-01-19 07:18:00
-d7cdebf9-ce4c-40aa-a0a6-63795da28610,Camiseta Abreu,Moda,93.16,201,2025-08-02 18:58:49
-23d500a2-75e1-450c-a580-c41b2a5778dd,Cadeira Sales,Casa,2551.59,78,2024-11-30 01:31:23
-b68b3315-2cdc-40e6-a38a-d15d46ca1d6f,Notebook Correia,Eletrônicos,517.17,44,2025-01-26 22:22:33
-5fa79cba-1477-48b7-83ec-ee3340b4b327,Tênis Fogaça,Moda,331.29,245,2025-02-17 12:11:03
-4af21a73-0bab-485a-8cb9-8ff264127b34,Smartphone Novais S.A.,Eletrônicos,615.81,87,2024-12-07 03:36:55
-7b0c0a53-abb8-45b8-8729-a9e7b3ae94c7,Mesa Silveira,Casa,2935.76,242,2024-12-10 11:00:40
-abdf23e8-a39b-4e90-9219-e07e7e01c7a3,Notebook Costela - EI,Eletrônicos,4031.94,241,2025-01-17 05:20:58
-d63460ef-a042-41b5-b2ae-74fae61c8997,Tênis Sales Ltda.,Moda,169.25,328,2025-02-18 16:09:19
-95ba8ffd-9820-4c4c-b66e-a38718acaa46,Mesa Oliveira e Filhos,Casa,717.67,453,2025-02-21 04:35:35
-f7c77ab5-7c0e-41d0-8895-f7e1fb54f715,Calça Pires Fonseca S.A.,Moda,133.96,22,2025-08-28 04:19:19
-dfc02b1a-f61f-435f-aa33-d51471d2e536,Calça Abreu,Moda,259.28,115,2025-02-27 02:45:46
-6dbb4eee-b72b-4186-b5ef-4379167883e5,Tênis Moraes Ltda.,Moda,77.74,385,2025-06-09 04:15:56
-fc5e143c-f566-48c6-a620-81d57c5ae938,Cadeira Sampaio Albuquerque - ME,Casa,470.77,342,2024-12-11 21:21:29
-4f0b2518-eb1a-49bc-9f8d-fe8e51190e43,Tênis Cassiano - ME,Moda,236.29,387,2024-12-23 12:02:58
-921a99b7-ab15-434a-9aa0-225d05225ce0,Sofá Andrade,Casa,1750.09,430,2025-06-25 15:02:09
-fda87a77-fe83-43f1-b700-e4ffe674a023,Tênis Ribeiro Pinto S.A.,Moda,238.38,274,2025-04-12 06:44:04
-c1166df4-808f-486b-a2c9-aeb5be4cfebc,Mesa Siqueira S.A.,Casa,1803.6,120,2024-12-10 02:20:08
-8f698382-6ce2-4da8-8299-b13304cdd738,Calça Castro,Moda,85.53,462,2025-03-29 14:48:00
-201dafe0-adbd-42b3-b1f5-b17b81ce5cfd,Sofá Cassiano Jesus S.A.,Casa,1605.88,461,2025-03-28 17:05:23
-91166b1c-8b35-40b4-884d-11d4f2560293,Cadeira Macedo,Casa,2097.1,317,2025-01-30 05:18:58
-0f6b01d6-b2f1-41d2-b410-d7a1d10a6e02,Smartphone Montenegro,Eletrônicos,4771.65,229,2025-08-01 14:21:36
-e64b540d-ec43-487d-9209-fb53cc483567,Smartphone Pacheco e Filhos,Eletrônicos,4874.74,413,2025-08-20 05:41:12
-4cd3f023-59f3-47cd-a867-cfb8082ed1ca,Smartphone Nascimento,Eletrônicos,692.04,40,2025-10-04 21:28:29
-1fb3be72-bd28-409b-8523-89decdfb6990,Mesa Sá,Casa,765.37,421,2025-01-31 05:52:49
-5c814385-bf4e-4086-ab13-1e6d111161eb,Sofá Oliveira da Rocha Ltda.,Casa,2535.5,132,2025-05-25 12:27:42
-61a75d51-e60c-4411-ad74-c4cfa317c9b1,Tênis Viana Barbosa S.A.,Moda,461.38,34,2025-03-17 02:49:56
-1b1b0613-9eda-4ce9-a96a-f2ea2ffcc77f,Notebook Porto,Eletrônicos,3003.64,282,2025-09-03 22:57:53
-4a75e207-80be-4047-bbd4-8a6514cd8747,Calça Siqueira Sá - ME,Moda,283.86,469,2025-03-14 02:50:49
-e2d7fae3-6e25-4c1a-9541-810c04d8799f,Tablet Santos,Eletrônicos,3303.76,267,2025-08-09 10:44:37
-4755861b-864d-471b-9d6b-599200b2fccb,Camiseta Rodrigues Ltda.,Moda,236.5,75,2025-01-07 18:07:44
-179b28a4-3376-4ca4-a0d8-5703f44141cd,Cadeira Macedo,Casa,1831.5,493,2025-06-08 18:56:25
-ec66aa06-f976-4a76-8e0d-ab28888c276c,Smartphone Teixeira Cirino S/A,Eletrônicos,3032.08,51,2024-12-24 16:28:14
-a91f68a1-b0df-4b2a-9ab0-295a4f14700d,Tênis Campos,Moda,446.06,449,2025-09-10 04:59:51
-6551035f-261c-47d7-9006-4ae3d1e1f2ef,Calça Caldeira Mendes - ME,Moda,222.37,248,2025-05-21 18:50:24
-b024b703-b1a4-4067-95de-8e3101e38438,Cadeira da Cruz,Casa,1524.53,88,2025-02-03 05:37:21
-8f008d8c-d6a9-459f-b631-2046e9326425,Calça Novaes Rodrigues - EI,Moda,114.73,311,2025-01-04 17:21:32
-77322e6e-37c7-43b1-88a7-6cce9f49d20b,Cadeira Caldeira Rezende Ltda.,Casa,1324.82,202,2025-08-02 07:51:32
-7af5a526-9bbd-480d-8f1e-540449d0797c,Tênis Moraes S/A,Moda,156.91,381,2024-11-23 06:42:27
-bd45d42b-8640-4d0d-8ba5-edccbc73c0db,Calça da Mota,Moda,453.66,10,2025-05-01 05:08:03
-c05798c3-8043-4bdf-9fab-4c11b36469ab,Calça Castro S.A.,Moda,189.93,431,2025-03-19 09:59:44
-e5c57590-8fe1-43c9-8404-663bd05df12c,Tênis Campos - EI,Moda,358.18,497,2025-01-04 21:30:30
-1d0ac620-dee3-4e07-a778-abc18e6a16c4,Smartphone Correia,Eletrônicos,1852.16,380,2024-11-11 01:36:10
-a2db6e0d-fe18-41e0-93dd-6f78bf5e1fb2,Calça da Mota,Moda,171.24,213,2025-07-25 19:19:31
-3bfb2d12-f9b7-412e-bdd1-7edff544ed8c,Cadeira Nunes Mendes - EI,Casa,450.0,226,2025-09-12 19:38:50
-2c7b5837-1e39-46f6-9ead-c80858bdd34a,Notebook Mendonça,Eletrônicos,3834.25,388,2025-01-13 15:47:12
-d8140cce-cc79-43ba-aebe-9fe635efae7d,Mesa Dias - EI,Casa,2498.85,263,2025-08-05 05:47:52
-8dc12767-9019-430b-9df6-4c7a4fe83805,Smartphone Rocha - ME,Eletrônicos,1900.05,259,2025-07-25 19:22:58
-0cb73807-8d26-4c28-a0bf-b95fd611916b,Camiseta Montenegro - ME,Moda,401.23,268,2025-08-20 18:54:27
-efe34868-c572-4da5-93c7-de9d086c37f8,Sofá Silva Garcia Ltda.,Casa,686.46,448,2024-11-06 13:16:29
-7f0eac7f-77a0-4eb0-929e-dc177d275a90,Smartphone Andrade,Eletrônicos,1622.71,233,2025-09-27 23:18:10
-f9893255-1a3e-4a7c-933a-45f846188bda,Notebook Rezende,Eletrônicos,3670.85,140,2024-12-18 13:12:09
-17b3a803-d3af-4c21-bb0e-6dfdd7b991f9,Calça das Neves Monteiro - EI,Moda,277.31,325,2025-06-06 04:58:12
-3a9c8961-7d3c-41fb-9165-4cc582d6e890,Tablet Casa Grande Fernandes S/A,Eletrônicos,637.53,190,2025-06-05 22:13:28
-f2c45359-353a-46a5-be9b-d2aea3026679,Tênis Lima Ramos S/A,Moda,250.75,491,2025-09-25 02:50:40
-6f46ee98-25a5-49eb-864b-f85ba8c8c6ec,Tênis Fernandes Aparecida - ME,Moda,298.1,176,2024-11-30 13:46:52
-67547fab-11ea-46d8-b998-62e57c917343,Notebook Moura Ltda.,Eletrônicos,3870.33,352,2024-10-27 21:31:06
-d32d41fa-cae3-4622-8565-2cd1476a7007,Notebook Mendes,Eletrônicos,623.53,25,2025-08-20 04:10:53
-3f0259b0-9afb-4552-a50f-3609a9690ea5,Tablet Rezende,Eletrônicos,4009.24,109,2024-10-22 05:36:41
-36f31ac5-9912-4671-9c45-46c9658cbd97,Tablet Santos Pimenta - EI,Eletrônicos,1513.0,105,2024-11-08 06:23:39
-674b1c32-5fe9-406c-af7d-12e173c685a1,Tênis Ramos,Moda,234.28,10,2025-02-22 00:16:43
-ba3f2387-dcee-485e-9353-b08546e90788,Sofá Moura,Casa,1527.47,67,2025-03-09 07:03:29
-6e9406e2-402f-4960-b085-bcde3eebaa38,Sofá Aragão,Casa,1883.2,4,2025-10-08 22:40:22
-e7be19e2-ede9-4987-8ac8-1f16df759f18,Notebook Leão Novaes S/A,Eletrônicos,3237.55,482,2025-07-21 09:19:07
-a6a5a193-ec78-4559-a8cc-e26227055c9e,Tênis Camargo da Rocha S/A,Moda,485.16,329,2025-03-26 09:51:36
-eb21315b-d99e-4351-9fa4-296882920474,Calça Melo Costa S/A,Moda,452.97,436,2025-04-25 16:48:06
-e6a1adef-0bee-4e04-8797-bc73eea9b4ee,Calça Barros,Moda,163.4,238,2025-09-18 02:14:08
-28d8cc6a-332a-49a3-adbe-faac8d764514,Tênis Pacheco Almeida S.A.,Moda,284.29,319,2025-05-29 21:51:36
-9c58f6fb-03d6-4b92-aade-a157bf99a63d,Tênis Alves Aragão Ltda.,Moda,96.04,261,2025-08-20 14:24:42
-f8947191-b338-4d84-909d-43041e6ad67e,Mesa Cavalcanti,Casa,1772.08,304,2025-03-10 01:50:58
-7361eed4-b098-4e40-af99-7c52a5333d5e,Mesa Mendes S/A,Casa,1035.73,55,2025-06-03 19:03:46
-51f82ea7-1e38-4a81-94a1-27e76ee966fb,Camiseta Monteiro,Moda,201.33,141,2025-01-28 00:41:12
-0a17162b-5026-402c-a6ea-7b7778656d18,Mesa Rezende,Casa,2612.18,133,2025-03-28 17:36:15
-b420f50a-8fce-41f8-a475-cedb34cfc1da,Cadeira Azevedo da Conceição S.A.,Casa,2866.13,333,2025-04-02 11:13:40
-920b1af9-112a-4393-bae8-9e1865f7c25c,Camiseta Farias S.A.,Moda,117.47,391,2024-12-10 13:07:02
-de4aa9ec-aa5d-486b-bcef-ac7f234c4dba,Smartphone Cavalcanti Carvalho - EI,Eletrônicos,4124.43,410,2025-03-30 10:11:20
-4a33a159-6671-4941-98cd-9f116d6393a0,Mesa Vargas Duarte Ltda.,Casa,2049.48,348,2024-10-29 08:38:29
-95e58a21-f9c9-48ae-9ef0-bea96f9a8587,Tablet Pastor,Eletrônicos,614.55,254,2025-06-17 18:34:26
-a0546f98-3446-4051-b891-c6c3ae574df6,Calça Novaes Rodrigues Ltda.,Moda,458.11,207,2025-04-12 11:54:24
-15e2982d-da85-41b1-bf61-573a0ca5bdd8,Tênis da Rocha,Moda,65.89,362,2025-01-09 12:19:59
-40372e8d-1cdb-45af-abb0-b35933e1916d,Sofá Montenegro - EI,Casa,1160.87,365,2025-03-11 13:02:18
-83e63e56-551a-4510-a183-5d9e45fac0c1,Tablet Fonseca,Eletrônicos,2905.86,401,2025-05-22 23:36:03
-183970cd-aa2a-4b67-a779-17183bd4f249,Tênis Nogueira,Moda,211.32,153,2024-11-03 19:35:48
-c30d9b31-8d33-4af3-bc43-3ffe7843efd5,Tablet Pires,Eletrônicos,4444.23,92,2025-08-15 08:30:14
-7d396dce-4c80-4997-839b-4c69864c2619,Camiseta Sousa da Mata - ME,Moda,261.85,379,2025-01-02 22:12:17
-57f82f9e-a0aa-4376-88ac-bc557aa1fb61,Tênis Peixoto,Moda,413.75,390,2025-08-17 01:32:22
-3e3eb842-ac0c-4b48-b608-ebefe37447b6,Tablet Mendes Ferreira Ltda.,Eletrônicos,4548.16,335,2025-10-08 00:19:13
-e306f4bf-c340-4b21-9731-98e0d45c19a8,Smartphone Ramos,Eletrônicos,2098.78,381,2024-10-22 00:24:34
-59d1ee18-8ac3-441a-97ed-73f934a5be4a,Calça Nogueira,Moda,404.64,169,2025-01-12 21:43:01
-4173eefd-e9c3-4d05-8029-3c9e3fa7fbaf,Calça Fonseca,Moda,313.51,237,2024-10-29 21:57:49
-7253113e-3ffe-4bd0-b15f-fd3ca1dbe3c6,Notebook Souza,Eletrônicos,741.55,324,2025-04-03 12:53:24
-56eb9b28-8c33-4bc3-9422-542fefb1412e,Cadeira Pimenta - EI,Casa,2844.04,36,2024-11-04 14:00:04
-8cea5f96-bcd0-48c8-a463-9bad49873cfa,Camiseta Camargo Macedo S.A.,Moda,275.21,444,2024-11-19 11:27:10
-3909085b-dac0-4f9c-881b-18c7868d6d08,Mesa Vieira S.A.,Casa,1683.55,211,2025-07-22 12:21:16
-bce53feb-c046-44e6-8a7e-701fcfcca4a9,Smartphone da Paz S.A.,Eletrônicos,1118.14,102,2024-12-31 07:01:37
-45b9e455-befd-477f-91de-478bd806a61c,Calça Sá Ltda.,Moda,494.24,457,2025-06-18 17:02:26
-f4a94520-2130-4696-af8a-0a74f47d298f,Camiseta da Luz,Moda,192.37,366,2024-10-22 11:57:59
-39fc3081-16d4-41e2-b136-fc7a2a36871c,Smartphone Barros Ltda.,Eletrônicos,2694.11,323,2025-03-12 23:06:42
-40a969aa-2fb4-423d-9de8-f72510a5764a,Notebook Pinto e Filhos,Eletrônicos,3355.25,2,2024-12-27 19:02:17
-dde7f613-d366-4843-9c8f-dab64f79e283,Calça Duarte Cirino S/A,Moda,144.22,396,2025-08-21 22:44:37
-04af324f-6ec6-40c1-bdb8-7346cc7da00b,Tablet Cavalcante,Eletrônicos,3940.18,250,2025-10-10 23:44:23
-9fab018c-3bc4-4a34-99a8-b0ed76f28c94,Smartphone Aragão,Eletrônicos,3265.16,324,2025-06-23 13:09:05
-063a6f76-c291-497f-9202-66dec200452f,Calça Barbosa Gomes e Filhos,Moda,243.06,244,2025-01-24 17:00:57
-fcf8a9ca-e27f-44d3-a7ba-26bf8cf6eeaf,Camiseta Guerra,Moda,66.98,102,2025-08-17 19:26:38
-234adc4b-5cf1-4615-a919-3931011662bc,Mesa da Conceição Camargo - ME,Casa,2860.19,456,2024-11-19 07:04:48
-df141187-337e-41f9-9f99-45749b0a66a7,Tênis Novaes S.A.,Moda,135.76,346,2024-12-24 06:55:53
-b337801c-b9b2-4e33-a035-81995d512751,Tablet Azevedo - ME,Eletrônicos,3801.21,115,2024-11-16 02:09:10
-8b1b6d7e-778b-433a-970f-dfc211b85404,Mesa Campos,Casa,1073.86,52,2025-05-23 16:21:21
-992b5a40-c5fa-4e97-a215-47f3e33a513d,Tênis Dias,Moda,314.9,85,2025-04-03 15:50:31
-3e0c2063-cbfd-47b6-a662-6a2c45853f8d,Smartphone Aparecida,Eletrônicos,1841.91,148,2025-02-14 22:29:43
-783c234e-71a4-40c1-a04e-544d559570c5,Tênis Pereira e Filhos,Moda,284.13,268,2025-06-05 09:10:42
-368366e8-abf0-4489-8ca8-d77df5f802d0,Calça Alves,Moda,449.59,68,2025-05-06 03:43:26
-e7e98ec7-40d1-4d22-9838-be28f2b6a4d8,Calça Abreu Ltda.,Moda,211.66,96,2025-03-15 15:39:43
-f244373b-456c-412e-8f91-43ecd0885b67,Notebook da Conceição,Eletrônicos,586.06,114,2025-06-05 16:36:43
-6c823303-e990-4dfe-90ff-e451b1a025ca,Sofá Leão Câmara Ltda.,Casa,791.33,11,2025-05-22 05:36:12
-017395c0-7b70-422a-9836-2a755352954d,Cadeira Melo - ME,Casa,673.16,187,2025-01-10 22:34:43
-24910f97-84f8-4eed-9811-69777677e188,Cadeira da Luz Camargo S.A.,Casa,2417.96,192,2025-06-10 23:28:27
-212a9aec-983e-4cfd-a2b6-5a649e0e3000,Mesa Cassiano e Filhos,Casa,2359.5,319,2024-12-22 14:46:12
-e98b4301-bf57-49aa-8454-fb6626ec6bab,Tablet Mendes,Eletrônicos,4976.06,338,2025-10-13 22:07:51
-815e3177-1545-42da-bade-f9d1bb8ac826,Tablet Gonçalves - ME,Eletrônicos,4262.54,24,2025-02-12 01:06:30
-a5d753fd-152d-4ef9-8872-74b05bf89e38,Sofá Almeida,Casa,1366.97,194,2024-12-16 08:06:07
-83f43b58-31aa-4499-853a-037759f8b9e7,Tablet Correia Fonseca - ME,Eletrônicos,1637.32,359,2025-03-25 14:21:44
-1e138e15-aa69-41f8-adb3-879d4dd9d3c2,Smartphone Barros,Eletrônicos,3628.36,322,2025-06-15 09:49:28
-6ae4fb35-9cc9-4c89-80e8-c51774bfc629,Notebook Freitas - ME,Eletrônicos,2393.92,51,2024-11-15 23:49:48
-4eaf2064-cdec-4f2c-9353-4e44e38eb152,Cadeira Correia,Casa,955.94,310,2024-12-09 23:49:00
-2f285389-4d9c-4b2c-8639-eb86ff5cb25c,Sofá Rodrigues,Casa,1372.71,460,2025-05-31 17:01:20
-f6ffbc14-56b6-4366-9010-d52c6ae541ad,Tablet Sales,Eletrônicos,3734.45,60,2025-08-01 04:36:26
-b8a56f8c-67b3-4f2e-a4d2-e9a0a82c2610,Camiseta Castro,Moda,403.14,254,2025-03-08 14:26:44
-a0663141-dd4b-4b99-8287-065b3643c904,Tablet Dias - EI,Eletrônicos,1398.87,134,2025-04-03 11:16:41
-4457b40b-6ff2-4901-bc11-f69600a00a9b,Sofá Guerra e Filhos,Casa,1202.18,209,2025-05-06 01:36:24
-db8c9d34-0af4-4cd6-b736-48b003a33e45,Camiseta Brito Mendes S/A,Moda,67.73,254,2025-02-08 15:43:07
-c357b358-3891-4587-9f10-dc25ee44d2e4,Tablet Borges S/A,Eletrônicos,4699.06,169,2025-01-18 00:52:18
-60405d17-80f3-4f8c-9cf8-c517e62c963d,Smartphone Camargo,Eletrônicos,557.37,45,2024-12-12 04:53:43
-2675bed3-8356-44c1-98c9-90c8649c7035,Tablet Fonseca,Eletrônicos,3510.6,76,2025-09-04 16:35:18
-50a1bf33-e8e2-4fe6-85cd-dd741bd8a919,Tablet Macedo,Eletrônicos,837.72,370,2025-01-02 23:30:20
-7798a735-ddac-4264-8c03-b71d9cae5a19,Notebook Macedo Barbosa e Filhos,Eletrônicos,3399.52,233,2025-04-05 10:22:39
-c89b9237-336a-43dd-bfb1-efeafe0a20d6,Calça Borges,Moda,258.92,51,2025-05-13 04:46:10
-6b5d2820-b1a7-416a-a96e-2211de54f784,Smartphone Rodrigues - ME,Eletrônicos,4335.12,184,2025-03-11 17:08:55
-fab4fd55-f2a8-424a-a86b-6351d7da516a,Mesa das Neves,Casa,1392.79,59,2025-09-11 05:08:46
-cff7532a-75c8-417a-9f9c-909cb56207f7,Smartphone Rezende,Eletrônicos,543.53,70,2024-11-04 07:48:18
-5916ea63-d32e-45fd-adcf-03c703a79485,Cadeira Melo,Casa,677.43,183,2025-07-13 03:53:00
-ceb94590-194f-4a1c-b2a1-3bb63f077536,Tênis Correia Ltda.,Moda,170.74,375,2024-10-18 12:00:36
-1b1dcf51-411e-4cf9-93b5-f1d2b785af68,Notebook Rezende S/A,Eletrônicos,4167.34,93,2025-09-21 14:28:20
-6a354e2b-a9ae-47c4-92a5-b319ba828534,Notebook Borges,Eletrônicos,2301.13,233,2025-04-02 08:14:58
-b999f025-c858-41b3-9d56-8084767b38e6,Calça Caldeira,Moda,360.46,244,2024-12-30 03:08:23
-f7f75539-ce3f-4f58-8a49-d0a140433863,Tênis Camargo S/A,Moda,448.76,85,2025-06-18 06:17:24
-e5b5edf5-a7b5-4429-9655-b886947e2df1,Smartphone Cunha,Eletrônicos,3632.76,30,2025-04-28 04:26:21
-3ee0ddb5-62b0-438b-a60b-b2961a4eb5a0,Smartphone Rios - EI,Eletrônicos,2372.12,302,2025-06-03 10:04:12
-2c7968e4-506f-4f7a-b650-103bf55a10d0,Tênis Marques S.A.,Moda,355.28,92,2024-10-26 14:22:45
-5ffb93e1-e042-487f-b2e1-c3bfbbbe344b,Mesa Dias Melo - EI,Casa,2381.66,313,2025-03-03 19:45:00
-cd59af72-9fc3-4446-adfd-d767cc7b7e6b,Tablet da Luz,Eletrônicos,4459.78,372,2024-10-20 05:52:19
-7bf59d38-2c13-47f1-be3c-e43266410da6,Notebook Nunes S/A,Eletrônicos,4641.79,57,2025-06-15 22:11:42
-4ac60457-a58f-4d76-b008-d512b29c7348,Calça da Rocha,Moda,70.69,133,2025-08-24 08:25:32
-8f9285ed-0285-4e31-8d40-85f1cedf356a,Mesa Silveira,Casa,234.61,444,2024-11-05 16:38:28
-6fee077d-e8e9-4542-a4d5-c3096b15052f,Cadeira Novaes,Casa,2349.08,295,2025-08-11 05:53:01
-e33b7209-581d-4572-96b0-9c43dac9bab9,Cadeira da Rocha Barbosa S/A,Casa,827.16,489,2025-03-18 14:27:27
-ac886a80-2efd-4d8e-b3c7-466bd00c1c10,Mesa Costela,Casa,1653.48,352,2025-01-22 20:22:21
-f967cd57-704c-4faa-93f7-f70232ab5e74,Cadeira da Rosa Ribeiro e Filhos,Casa,466.68,338,2025-10-11 04:12:17
-6fa48e0c-a68b-4847-b09e-4791f3fd5d5c,Sofá Campos Ltda.,Casa,1549.4,339,2025-09-01 15:48:59
-b3befcd0-7c5d-46af-a768-be674e52f8e6,Cadeira Dias,Casa,1277.65,429,2025-09-01 08:03:54
-6c9bdd5c-5003-4849-ade8-74c31639b72a,Cadeira Lopes,Casa,352.79,329,2024-12-07 13:23:36
-4622bcdb-f1c9-4da2-88b8-0cbe7995e757,Tablet Cardoso da Conceição S/A,Eletrônicos,4319.81,436,2025-06-08 01:52:47
-0fcaf2c8-aa8e-43a3-a4ea-64cb440c2bf1,Camiseta Cardoso,Moda,83.69,251,2025-07-13 22:00:07
-a02467f6-ef52-4f69-b968-f6a92f356f74,Camiseta Lima - EI,Moda,198.9,142,2025-01-19 08:53:43
-40a1f765-8f1f-42bb-b3ac-8e37f87c6320,Tablet Câmara - EI,Eletrônicos,1502.18,329,2025-08-06 10:04:49
-e4e21eed-f01d-4818-a6ae-22223edc9523,Calça Brito,Moda,417.7,40,2025-06-02 02:56:03
-cb10009d-c35a-483f-8b68-378666dd09d1,Calça Pimenta,Moda,410.57,229,2024-12-09 03:12:36
-5f4ea0d8-992b-45ec-972d-c6e10cb3f7a3,Notebook Sales,Eletrônicos,2511.81,60,2025-03-19 02:56:15
-2130d5b4-60fb-4a4c-aec0-34d370f8a4e4,Tênis Casa Grande,Moda,344.02,52,2024-11-08 09:19:21
-a1d2ecd7-5c7b-42b2-8f7e-b4ad31087459,Calça da Paz,Moda,66.12,281,2025-03-19 21:30:31
-f9e8a612-4284-4538-bc4a-76beea35cd05,Smartphone Correia,Eletrônicos,4063.02,493,2025-07-20 19:43:42
-46c75623-5f1f-4855-a850-8a3792038295,Cadeira Brito Lopes Ltda.,Casa,1052.87,260,2025-05-15 19:12:53
-599ab580-ab72-49d1-b612-56f6b31a118d,Sofá Albuquerque,Casa,2032.87,233,2025-03-21 21:22:13
-5ccfc358-189e-4a41-8423-cf67b884e8d7,Calça Ramos,Moda,421.39,418,2025-08-11 20:06:27
-6b9e8f04-5dfa-43e4-9fa3-de1772e81311,Notebook Brito e Filhos,Eletrônicos,1993.88,392,2025-09-02 19:08:14
-0a8add73-cb8d-49dd-a707-b673f01eb733,Cadeira Rezende,Casa,1524.77,336,2024-11-22 20:24:47
-c2748e39-9554-4367-8b64-518e8cb56ebf,Tênis Ramos Rocha Ltda.,Moda,253.64,49,2025-06-06 19:36:28
-f15123ef-753a-4730-8635-ae0df15ee309,Sofá Pires Caldeira e Filhos,Casa,206.15,181,2024-10-20 02:56:52
-8a372b37-7b5f-4232-9f24-9cc20a9e5f1a,Mesa Nogueira,Casa,1733.53,191,2025-05-22 10:10:05
-76292846-8d19-4120-8ab2-da8e11a872ac,Sofá Porto - ME,Casa,328.18,84,2025-04-29 09:06:40
-f39ee075-2b8d-4b91-8121-81c5591e5b46,Camiseta Machado,Moda,419.83,380,2025-07-15 20:52:57
-e67fc7af-32f6-459c-8948-4309f4eaa5e8,Mesa Camargo - EI,Casa,499.49,312,2025-08-04 05:47:11
-475de25f-99ae-4f15-b005-83348fcd86a5,Smartphone Albuquerque da Mota S/A,Eletrônicos,1043.36,436,2025-06-26 19:22:38
-58637815-d7b4-4a12-9fa4-bbd7eeb1d7b6,Camiseta Porto,Moda,255.67,400,2025-08-25 09:39:19
-8c5693d4-19a2-49de-9ea3-db65bdcf5a46,Tablet Porto,Eletrônicos,2020.7,387,2025-01-27 07:43:03
-339da935-5bb4-46aa-b454-c2c759eb27e1,Camiseta Monteiro,Moda,466.98,428,2025-01-11 14:28:39
-1eb03853-c96a-4b34-a16f-caff22bda0bb,Cadeira Sampaio,Casa,545.01,456,2025-01-05 04:39:08
-8ff88648-3db2-4616-a713-1cb94aa1cf0f,Calça da Cruz,Moda,346.31,489,2025-03-22 13:46:14
-65d5766d-0983-4057-b712-7b2868d0373b,Sofá Andrade,Casa,2898.79,2,2024-11-19 00:50:27
-bba3ef41-b89f-4e02-9ba6-c023a66dcde9,Cadeira Montenegro,Casa,336.0,478,2025-07-24 15:54:09
-5374ed61-affc-47ea-a956-64efd7382c86,Tênis Fonseca da Costa S/A,Moda,267.32,260,2025-06-15 22:41:45
-dbcad513-da70-46e3-9559-9c115a444280,Tablet Dias,Eletrônicos,3103.49,374,2024-11-02 14:24:04
-10279980-285a-4d33-be5b-6b00a29286f4,Smartphone Vieira - EI,Eletrônicos,2243.33,307,2025-01-02 01:00:19
-9d00634d-bdc2-45a9-84ed-acd5b577e32d,Mesa Barros e Filhos,Casa,1611.51,196,2024-11-26 23:54:03
-504200b1-130d-46ff-a17d-701bdf4cce97,Tênis Pinto,Moda,462.16,390,2025-03-10 02:03:39
-aafc4a62-07ff-4441-bc8c-5df3430c569e,Notebook da Mata,Eletrônicos,2290.41,175,2025-06-08 02:15:21
-1a63154e-6391-45c3-a136-9970f5257d2c,Calça Cavalcante,Moda,412.16,70,2025-05-10 00:27:48
-116d620d-8ca1-4a8a-91bb-00e2c2a814fe,Tênis Silveira,Moda,365.01,383,2025-07-30 12:49:53
-9168d867-4b91-4541-af7b-17a936354c00,Mesa Andrade,Casa,2560.61,280,2025-05-22 13:09:39
-f6131186-bf89-44ca-bc92-74c68fd7df32,Tênis Oliveira,Moda,381.57,283,2024-12-10 17:22:07
-48e2f9a3-f2a3-443d-b587-661b7996270e,Sofá Moura Ltda.,Casa,762.49,319,2025-03-28 00:19:24
-aa7c617d-5c3d-4c5e-9323-8ea02dbdf6ac,Mesa Gomes Gonçalves - EI,Casa,2122.51,471,2024-11-02 21:48:57
-90e90390-f690-4e95-8072-ee39cd375335,Sofá Sousa Pereira - EI,Casa,2947.74,332,2025-06-04 17:58:55
-300fac3a-26fb-4a9d-b11f-05377b09e112,Tablet da Paz Barbosa - ME,Eletrônicos,2941.21,326,2025-09-24 01:48:11
-d619e382-14b0-40da-8a5a-0ffb018bf5c4,Tênis Borges - EI,Moda,101.93,180,2025-02-19 06:38:05
-5bd12e7d-3335-48fa-8d54-c5f11a074bd1,Mesa Andrade,Casa,1831.86,482,2025-08-08 12:57:24
-3bb4b79a-ab45-446f-9f8f-0b10bd8d3cb8,Cadeira Cavalcanti,Casa,1368.94,382,2025-07-12 22:35:44
-4a3c7f5c-df63-45ae-9c0f-523a7eaa5b9a,Mesa Moraes - EI,Casa,2656.94,216,2025-10-14 21:19:39
-b92ee55c-adef-4b4a-81ea-3aab50f8a5db,Tablet Gonçalves - EI,Eletrônicos,979.12,195,2025-08-03 15:09:28
-fc28b7df-584e-48c9-a50b-450a7ac9a0be,Smartphone Teixeira S/A,Eletrônicos,3516.14,102,2024-12-09 14:28:28
-e7cba334-3d4e-4d3b-b561-a1c7d7672360,Camiseta Marques - EI,Moda,492.59,349,2025-02-14 03:06:21
-df37c2bd-121a-43bf-8cf4-8b46903ee038,Camiseta Novaes Cassiano S.A.,Moda,427.72,353,2024-12-31 08:41:17
-e7289fcf-058d-487c-8f46-5e3c55c7b4e0,Camiseta Cirino Ltda.,Moda,389.12,16,2025-03-07 06:58:15
-cc608df0-88bb-44a6-8c07-e6dd31eb97d4,Calça Carvalho,Moda,96.12,444,2025-02-19 05:38:36
-2eb9a249-2a0a-4403-8425-e27561cd3258,Cadeira Moreira Ferreira - ME,Casa,1773.28,114,2024-11-29 19:29:37
-08653810-e3a7-4788-9a79-2ceb5b01af1b,Cadeira Sales Marques e Filhos,Casa,1771.56,121,2024-11-27 04:44:17
-f87d9a79-1427-43ed-91b3-e807b6d198f1,Cadeira Borges,Casa,1005.39,340,2024-12-23 23:43:38
-bcee2f4e-5831-4118-a2d8-2a78c94bbef1,Notebook Monteiro Rezende e Filhos,Eletrônicos,2244.0,489,2025-04-14 10:01:28
-33199567-f5c9-4103-92b8-e596593a885c,Mesa Costa Dias e Filhos,Casa,2904.33,27,2025-04-13 10:39:10
-2b17ec13-4363-4c4a-8eb0-dd40fd1fe65c,Tablet da Cunha,Eletrônicos,1631.04,317,2024-12-20 11:44:21
-46d8b838-5e9e-4336-a173-f0a7d8cd6473,Camiseta Rocha Ltda.,Moda,460.17,360,2025-07-06 15:26:12
-74d0f4fb-d496-41f9-8667-0253d0124c5f,Cadeira Pereira Ltda.,Casa,1229.68,301,2024-12-22 09:39:02
-4934e853-85e4-4bf9-9e13-b0ec290beb99,Cadeira Peixoto,Casa,1889.48,397,2025-01-10 21:04:37
-9359da0f-6f6a-4b3d-8d41-b4d7b92f8ac7,Sofá da Luz,Casa,1023.7,90,2024-11-25 15:58:32
-e2ceedde-6832-432c-8a64-4eedfa90cad1,Sofá Azevedo,Casa,723.53,88,2025-05-29 08:38:48
-51dcb2e6-dcaa-4a99-b23b-307c3010cc85,Cadeira Casa Grande,Casa,534.19,20,2025-02-17 20:00:40
-e2c62e59-8772-44da-a44b-f54b2ceb1cc0,Calça Nunes,Moda,300.47,66,2024-12-04 10:25:34
-06b73406-109a-4d90-a8e7-a41af9fa90d0,Tablet Câmara,Eletrônicos,4307.06,2,2025-09-28 14:37:47
-3bab76ec-7399-4bef-85ae-8a27f57a325d,Calça Vargas - EI,Moda,369.36,79,2025-02-25 18:43:27
-737d1e2c-f068-43d8-883c-ce1704854f6b,Smartphone Monteiro,Eletrônicos,4678.83,305,2025-05-25 18:34:55
-7982bd02-e5e4-47a0-83df-b13ab37b7b7c,Tablet Gonçalves da Rocha e Filhos,Eletrônicos,3270.24,338,2025-07-29 00:32:37
-b0fe5e7b-577a-4857-a728-a4e4981f3ce8,Calça Costela,Moda,405.46,281,2025-04-01 21:57:25
-a20bec7b-da7a-4275-87e2-33ef26ab2abe,Camiseta Marques,Moda,402.81,162,2024-12-09 04:33:40
-f7ba74f8-b580-4b1d-bcc1-e5fdbaf5dd79,Sofá Lima e Filhos,Casa,2879.57,266,2025-07-29 10:49:28
-a9d8c2a0-1921-4799-ad46-9027ed161c26,Tablet Cardoso - EI,Eletrônicos,1217.17,278,2024-12-09 01:16:57
-102f82ea-81b3-4ac8-bf0f-de50ef53826d,Mesa Duarte Caldeira S/A,Casa,457.45,113,2025-06-13 17:36:32
-63c9e9dc-7ca3-4ae4-8e88-020222291298,Tablet da Costa e Filhos,Eletrônicos,1993.48,184,2024-12-30 13:29:25
-eea31323-3f4d-4f69-90ec-b7b0e2684597,Camiseta Alves - ME,Moda,477.64,316,2025-02-12 15:28:58
-9bcb8c46-b907-4179-9d0b-f9a56dc9b1f7,Mesa Teixeira,Casa,2990.57,421,2025-06-19 19:55:36
-1df6725a-3508-4d3a-a46c-1b4138603745,Sofá da Luz Guerra - EI,Casa,521.22,177,2025-01-25 15:44:08
-f1900ea6-f811-4ed2-b93e-3d063393306c,Camiseta Silva,Moda,457.02,314,2025-07-10 00:42:09
-8ca1a0da-fbd9-4754-a92e-88faf8cd4b03,Sofá Cavalcante S.A.,Casa,2884.91,349,2024-12-05 17:02:20
-7840edf8-15d8-458f-a6d2-a4810d0f4411,Calça Cirino da Conceição S.A.,Moda,462.17,483,2025-09-11 19:37:52
-ceaf7bfa-c141-44a7-94c8-ee9e43c693cb,Notebook Viana,Eletrônicos,1654.66,370,2025-01-14 19:50:45
-e1e64a23-e835-4130-bab4-80d5cb6b237d,Camiseta Santos,Moda,460.1,420,2025-08-25 22:16:53
-e6628353-572f-4ef9-8d85-c9fa654f5e1b,Tênis Araújo,Moda,411.27,228,2025-09-24 12:30:35
-01b83838-a0f3-4868-b6fa-a94fd254969b,Camiseta Costela,Moda,183.4,333,2025-05-17 08:43:09
-572d75af-4df5-4f5f-b887-cfe449cc2eba,Notebook da Cruz - ME,Eletrônicos,2812.53,485,2024-10-20 03:26:09
-c51f0d78-7338-4589-8ce2-108a4d31870e,Smartphone Novais,Eletrônicos,4872.33,395,2025-09-01 10:55:30
-84c64064-e31f-416d-a395-5bbb4fe9565a,Cadeira Mendes Pinto S.A.,Casa,220.53,33,2024-11-30 00:49:05
-3998dc9a-77f5-4913-a9ee-c7d672976a26,Tablet Lima e Filhos,Eletrônicos,3332.82,109,2025-05-06 02:05:20
-eebca1fd-8473-4c77-9cbc-ce47647f8723,Mesa Garcia Rezende S/A,Casa,2539.86,105,2025-04-22 04:44:18
-5cea4de6-878e-4a5d-af4c-41661c25fd39,Cadeira Machado Azevedo Ltda.,Casa,2660.18,379,2024-11-23 18:11:04
-f46aa6ff-d8ff-430e-8167-65f13c5615b2,Tênis Barbosa Machado - EI,Moda,417.54,36,2025-02-02 22:30:50
-14e82f3a-d859-4bf5-9a10-ade018e521f9,Cadeira Nogueira Abreu S.A.,Casa,630.51,235,2025-03-27 01:05:48
-850f902e-b179-409c-9b65-4ef8ad651d3e,Mesa Rezende,Casa,306.08,37,2025-03-24 15:18:49
-7b02e018-feac-4231-a1eb-90a0c63433b3,Smartphone Nogueira Campos S/A,Eletrônicos,4073.97,285,2025-01-05 08:28:12
-7ca9a956-3d25-4937-b9da-9816a7bbecc2,Tablet Machado Araújo e Filhos,Eletrônicos,4197.29,466,2025-01-15 04:03:10
-3c91556c-5597-4088-ab10-7f522fb4ee45,Calça Gonçalves,Moda,224.61,322,2024-12-16 12:39:00
-d15184ef-e850-46cc-b8ce-8ecc114233ce,Calça Dias,Moda,192.38,199,2025-02-05 11:47:20
-93398277-1d2f-4dfd-a2c6-587a806a4570,Sofá Mendonça,Casa,1697.54,328,2025-09-03 01:06:17
-f2dfcf2a-87db-403f-a2ba-38a85fb79d42,Cadeira Albuquerque Ltda.,Casa,377.07,381,2025-09-14 12:42:00
-e7aa7dc1-6f09-45b2-bbb4-73fe03877e07,Sofá Duarte,Casa,2162.47,37,2025-06-10 04:38:32
-534fa5bd-e6e2-4a1f-afd6-7e7711d277e6,Tênis Costela da Luz - EI,Moda,97.76,402,2025-07-07 01:11:59
-1433d118-5259-416f-915c-da7ddc05d6bf,Mesa Vasconcelos - EI,Casa,1898.38,144,2024-10-25 19:16:15
-2813f380-2d49-4a52-b55b-0de736fbf7ba,Calça Nunes Rezende e Filhos,Moda,227.8,338,2025-01-08 15:26:55
-b7cb5276-96b9-4795-ae88-6e36b48a3eda,Notebook Araújo,Eletrônicos,1203.46,112,2025-08-06 03:45:10
-6841fd29-ea6a-4088-bf48-703752ec1c2d,Tablet Siqueira Nascimento Ltda.,Eletrônicos,2259.47,408,2025-04-13 12:54:19
-05b8e8dd-5a29-4c75-a473-1079e62ca9a8,Mesa Fernandes Moraes - ME,Casa,2888.38,73,2025-07-11 17:12:32
-44a610dc-d10e-4aa8-b16d-e91f278d8101,Tênis Martins Azevedo Ltda.,Moda,449.14,494,2025-03-20 10:29:12
-59073f5c-496b-4c0d-9a0b-6a7f4cc7d050,Cadeira Brito,Casa,1244.77,486,2025-02-10 01:43:11
-a7a19767-d29b-4b8d-b44a-06e6a2a07cba,Tablet Cunha Souza S/A,Eletrônicos,4436.45,72,2025-03-27 18:29:58
-11dd393f-0f25-411b-a903-3bb13a8c43f2,Smartphone Garcia - ME,Eletrônicos,522.63,305,2025-03-16 18:09:50
-bd76cf82-a465-4296-bf23-85a7fa7c8bce,Tênis Araújo,Moda,296.39,43,2025-06-08 05:29:05
-15d9404e-5380-4c6b-b8e7-483244dbedc7,Camiseta Cunha,Moda,386.73,462,2025-07-22 09:25:40
-4e840060-5bbf-4821-933b-0f58cc1ea7c7,Mesa Borges Brito - EI,Casa,792.86,463,2025-07-30 20:56:17
-3d9a5d0f-b13a-4a48-922a-957caf631abb,Cadeira Silva - ME,Casa,598.87,94,2025-06-27 08:11:42
-685aa87f-16cd-4fda-b90f-15385bb975ee,Tablet Pastor Ltda.,Eletrônicos,4256.37,99,2025-02-15 20:30:00
-f3e0e0af-592e-4441-83ed-bd2f1fe945e7,Smartphone Alves Peixoto S.A.,Eletrônicos,3519.4,290,2025-04-12 18:40:12
-a359d0c8-53d0-4acf-b64c-e416af5e461a,Tablet Correia Ltda.,Eletrônicos,2575.69,281,2025-06-23 00:54:30
-18a8a012-e32b-4723-b5e1-b611f6a6a82c,Notebook Mendonça Monteiro - EI,Eletrônicos,3522.58,128,2024-11-12 23:17:04
-095254dd-144f-42e8-9a1c-4a6da652e9b0,Smartphone Albuquerque,Eletrônicos,3765.15,249,2025-07-25 11:06:59
-22c7ed40-b871-4f62-88ea-0d160e79d522,Calça Mendonça Oliveira e Filhos,Moda,107.7,335,2025-06-10 23:12:51
-02dcaf76-bbf5-47ff-8a0d-dfe499f3959e,Smartphone Leão S/A,Eletrônicos,1783.12,35,2025-08-07 21:38:17
-1993cb6e-0c19-4c09-8ac9-4b44fa55cbc9,Notebook Aragão Albuquerque Ltda.,Eletrônicos,2686.38,168,2025-10-10 12:45:55
-be536353-6634-45e8-8d7d-21d9f9f5084e,Cadeira Moreira,Casa,1055.89,299,2024-12-02 02:45:09
-30b3c936-69ed-48b6-aca0-ef09f16e0a3f,Tablet Casa Grande,Eletrônicos,3050.88,413,2025-08-06 07:57:01
-32dedf1b-edbc-4ca8-b429-2697bc43383f,Calça Cirino,Moda,125.89,160,2025-08-14 05:56:38
-7ee17ce6-9766-42ab-8de1-74affa89e6ab,Smartphone Sales,Eletrônicos,3704.9,328,2025-02-01 19:58:39
-dbda7611-262e-4088-8132-6d6967f2ff03,Calça Lopes,Moda,428.05,68,2025-05-07 21:48:28
-3c4aaea3-695d-4602-bd85-2819c1b9a6f2,Cadeira da Cruz,Casa,1128.38,245,2024-12-08 15:08:31
-84183f65-6353-499e-9202-5c4162f80212,Calça Araújo,Moda,211.43,156,2025-07-23 04:53:30
-a3f8f377-4b46-4915-9bc6-a11448d5ba20,Tênis Carvalho,Moda,98.97,330,2025-05-13 23:46:57
-c237df1e-ce5b-432f-830a-0ec9b232f710,Sofá Farias e Filhos,Casa,2557.02,439,2025-09-06 06:01:35
-5a537dd9-dc73-4f0b-be4d-e9d6fad6822e,Tablet Macedo,Eletrônicos,1383.94,375,2025-05-31 19:00:38
-c1b20842-8755-4886-93b4-1044448c2b83,Sofá Cardoso S/A,Casa,2236.79,456,2025-08-09 06:01:25
-bb573eec-66d6-40d9-899a-3d833796737d,Tablet Souza Siqueira S/A,Eletrônicos,3342.32,416,2025-05-30 17:49:24
-9200fc37-8ae5-4f5e-9ed1-c015ea23ce4d,Cadeira Novaes,Casa,1334.38,302,2025-08-08 14:45:47
-9152c032-1144-4073-91c7-89f256b4c0b1,Smartphone da Conceição Ltda.,Eletrônicos,2982.17,278,2025-06-26 17:49:58
-b04179e6-8a2c-4be6-898b-f09d71708055,Mesa Albuquerque,Casa,2030.94,76,2025-09-16 22:44:26
-c1d604a4-540d-4ca5-a7e5-1dc840c70ed0,Calça Nunes - EI,Moda,150.49,395,2025-07-18 00:03:10
-8cdbe5c6-3357-4b55-905a-a1f73ecf5101,Cadeira Nogueira,Casa,2600.06,68,2025-08-25 18:42:39
-dc77838f-b8ec-4763-8b8f-21c75a162812,Tênis da Mota,Moda,279.69,203,2025-02-10 07:54:32
-c8b491ba-815b-4b6f-ae75-1690af73bc61,Tênis Santos,Moda,54.77,122,2025-03-27 22:26:41
-7d3996f1-e757-471e-af5a-8e8a93bb65c7,Cadeira Siqueira - ME,Casa,664.36,263,2025-01-20 00:55:21
-cad04f5d-832a-45fc-9810-4f39ef5e6501,Notebook Andrade Dias Ltda.,Eletrônicos,1216.5,289,2024-11-05 01:34:25
-abd1aa43-68e2-4539-a6a5-b0bc21e2fe50,Cadeira Barros,Casa,2642.15,74,2025-10-06 10:24:33
-0695f311-4381-468d-a55a-55c0ccca03b2,Cadeira Sales,Casa,1553.81,183,2025-06-16 00:37:37
-1ee02952-191f-49fd-98de-dcb331e8310e,Smartphone Mendes,Eletrônicos,3926.63,118,2025-08-03 02:03:14
-7967d874-148b-4b09-ad9b-a82bda208aed,Notebook Albuquerque,Eletrônicos,2162.46,21,2025-05-09 18:28:40
-d92f6c95-c3b5-4732-ad9b-d54dfccec2d7,Sofá Aragão Camargo e Filhos,Casa,1650.08,405,2025-03-08 12:38:03
-3e66d11f-2775-4c0d-82f8-fed1eec2566c,Calça Dias,Moda,261.35,232,2025-05-23 10:41:00
-f7df80fb-e7e6-4e8b-aae0-ded9571f34e2,Smartphone Andrade Alves S/A,Eletrônicos,4912.65,165,2025-01-05 14:59:53
-c90661f0-80b7-42e4-a259-e59eeb5a39e7,Tablet Pires,Eletrônicos,4857.99,324,2024-11-13 10:21:58
-ea8a8c25-fd77-46b9-8f5b-105f39bec114,Tênis Ferreira e Filhos,Moda,168.49,278,2025-06-02 13:44:33
-cfa9b24c-a9d3-4e50-88e0-19812bfccd3d,Sofá Gomes e Filhos,Casa,1254.65,193,2025-04-08 15:26:50
-4126f646-5a0e-442d-b4d4-f2dfab046f73,Tênis da Cunha Ltda.,Moda,344.0,427,2025-09-29 00:21:38
-a299e25c-58e4-440a-9f3c-a4e842571d4f,Tablet das Neves,Eletrônicos,1632.14,498,2025-04-23 09:30:53
-dd40df71-9255-4808-8b5d-a6f759f4bbed,Tablet Aragão S/A,Eletrônicos,2326.29,418,2024-10-30 11:10:52
-23c26ad5-f862-4c48-acf1-cbeae0d55932,Calça Andrade,Moda,406.7,454,2024-10-24 00:00:43
-7b3a4f00-20d5-480c-b324-0259e596c63a,Sofá da Cunha,Casa,1605.14,71,2025-08-21 23:09:31
-f7e38073-cf90-47a5-bb30-37fcba785607,Camiseta Pinto,Moda,153.5,263,2025-04-02 12:14:35
-3f3969f5-9c06-49a5-8cdb-ac12b21a5d4b,Mesa da Rocha Siqueira - EI,Casa,792.25,95,2025-08-07 12:40:56
-03c91bc5-7ba4-4d1e-8fe0-d4cf34f4c28f,Notebook Cavalcante,Eletrônicos,3209.09,418,2025-02-24 17:42:08
-656bd3b4-e6ab-416c-a172-83bb85eead0f,Tablet da Paz - EI,Eletrônicos,1536.56,415,2025-05-15 23:22:09
-7e26bbe6-159a-4c97-b94a-bf67f65ee426,Tênis da Paz Gonçalves - ME,Moda,101.0,345,2024-12-03 22:14:22
-c0cfdbbc-dc9a-4359-bf4d-01c8d78d9e86,Calça Lima,Moda,144.82,82,2024-11-06 21:17:18
-b424ce32-1547-4bc3-8159-ef23729f589c,Mesa Moura Aparecida e Filhos,Casa,262.85,22,2025-04-05 15:11:45
-2ab51931-b2a1-4a29-9fc9-36674bb4d2f7,Tablet Sousa,Eletrônicos,3165.56,68,2024-11-13 16:20:27
-55a3cd6e-ab83-40f4-a3a5-917059c8c41c,Cadeira Cavalcante e Filhos,Casa,309.73,293,2025-09-06 17:48:32
-f0fae808-4222-42cf-9c16-e68eb8e6ec73,Smartphone Fogaça,Eletrônicos,1248.54,472,2024-12-19 09:18:24
-158e37bb-54ad-4ed8-9c6a-ce5d03c49ebc,Tablet Araújo,Eletrônicos,4812.07,306,2025-05-07 04:12:31
-eb89ead6-059c-47ed-869a-877ba2231992,Cadeira Freitas - EI,Casa,252.14,368,2025-02-13 06:37:44
-a610b182-00f7-4430-8e0d-6e42b9dd1584,Cadeira das Neves S.A.,Casa,2499.65,484,2024-11-24 12:56:36
-13867cfa-b286-40cd-bcee-abe5b6a854b5,Smartphone Macedo S/A,Eletrônicos,2521.42,241,2025-07-26 03:59:44
-7419ab75-1e63-4e5f-8e03-00049e40d582,Camiseta Barbosa,Moda,148.71,210,2025-06-03 14:20:53
-dada8acb-6c2e-4e74-8cb6-37aaf269225c,Sofá Mendes,Casa,2424.92,420,2025-09-27 13:03:21
-3b9747b0-7f37-4d0a-97fd-7a7f20d4fce7,Tablet Vargas,Eletrônicos,3468.42,135,2025-10-05 07:09:37
-cf735337-d24d-431e-80f1-8163aa04851b,Tablet Correia,Eletrônicos,3585.16,472,2025-08-10 18:04:56
+2aebfe11-91e1-4aac-963b-ec4c16dfef88,Tablet Garcia,Eletrônicos,2046.08,61,2024-10-22 13:33:37
+0eed694f-b6cf-4174-ad56-a407a669e757,Tênis Pacheco,Moda,109.48,36,2024-11-27 15:24:50
+bf2bffc9-287f-4181-a214-323b9dae065d,Notebook Macedo Ltda.,Eletrônicos,901.99,412,2025-04-11 17:19:27
+9cff6784-2aad-4c12-a0e4-46180fe2ee3c,Smartphone Gomes Lopes Ltda.,Eletrônicos,1910.08,451,2024-12-30 13:30:35
+d0dcbe21-a520-482c-8c8b-4c0667b43a60,Camiseta Ramos,Moda,222.22,416,2025-04-27 19:16:55
+12e4cae5-6f6b-4c0b-ae12-d2e36369afca,Tablet Moura,Eletrônicos,4968.23,73,2025-03-30 04:45:24
+a1423f05-5c73-42fd-b9c9-e71dcd17122f,Tablet Montenegro,Eletrônicos,3034.81,312,2025-07-16 17:07:43
+129f0e23-6bb8-469b-928e-78c54ed6cf96,Sofá Rezende,Casa,1432.28,369,2025-08-31 05:12:03
+5425069b-9052-4ff3-af83-a6f4c94be707,Tablet Camargo,Eletrônicos,3867.21,470,2025-01-14 01:59:16
+04599960-534d-4f5f-89eb-9081b2d423c0,Tênis da Luz,Moda,358.95,440,2025-01-21 02:20:27
+bcb2fe84-808e-4560-959e-820889180968,Smartphone Azevedo,Eletrônicos,4534.67,71,2025-09-17 06:48:00
+50a48898-7f15-4f30-bf37-2ad8dac87a33,Tablet Nunes Dias S.A.,Eletrônicos,3785.04,179,2025-02-17 11:47:07
+8af96cf4-83b9-4b40-a6fb-824f6d8243d0,Calça Mendes,Moda,405.98,126,2025-04-08 19:33:38
+3e7bf7fb-8459-494e-a13d-26b3dc1e2ea8,Tênis da Costa,Moda,87.91,283,2025-03-25 21:12:45
+d096d8fa-721d-4c0a-ae6d-aa93f8ab0073,Cadeira Barros Casa Grande S.A.,Casa,2219.3,145,2025-04-20 02:03:28
+c825b161-deb3-4df4-85a5-1ce6a14bb5fd,Sofá Macedo,Casa,2574.1,337,2025-02-28 12:53:22
+a94c313d-8fef-4f2b-9b2b-a44b835c1bc1,Camiseta Viana - EI,Moda,282.99,260,2024-11-15 10:02:28
+5dc5e11f-0740-496a-b722-ffde97d5ac17,Tablet Farias,Eletrônicos,2262.88,330,2025-03-02 01:01:26
+ae4e30e9-d65f-45ba-b28e-20fd444ea007,Smartphone Cardoso Siqueira S.A.,Eletrônicos,2726.99,57,2025-08-09 23:46:09
+51c17fd4-2cb0-4f17-8061-0693aab5380b,Notebook Porto S/A,Eletrônicos,3371.37,36,2025-09-17 00:53:22
+4fdad3dd-7e8f-44bb-9536-beadacf2d455,Sofá Pastor,Casa,2963.27,478,2024-10-21 04:25:50
+ac49c4b3-999e-4ad2-8d87-e56f5d94db60,Camiseta Ferreira,Moda,224.08,429,2025-07-13 18:23:45
+8eba10b0-7275-47bf-a223-144f324abdd8,Mesa da Conceição,Casa,1223.15,349,2025-03-04 09:44:56
+06e98213-768d-4225-ae02-91d7af8cc31c,Notebook da Paz,Eletrônicos,4795.04,394,2024-10-28 12:48:47
+7cea7b3c-46d4-414d-b322-ec4336decd45,Smartphone Oliveira S.A.,Eletrônicos,3143.14,7,2025-01-25 22:57:07
+47a2f97a-4c8c-4fbc-8941-d27bee350ed1,Camiseta da Rocha Jesus S.A.,Moda,67.92,30,2025-08-26 16:49:50
+c6f40bb0-a2fd-4d64-9eab-14e6e13c05b1,Tênis Caldeira,Moda,178.92,364,2025-10-09 21:01:11
+5b4a0ce4-876e-44db-abe4-132d19a5083d,Mesa Pimenta da Conceição S.A.,Casa,1386.01,205,2025-09-24 04:37:35
+bbc92793-adbc-4689-a6f6-07c62a51b4b4,Tablet Vasconcelos - ME,Eletrônicos,2914.54,315,2025-02-16 12:00:22
+b2df9317-2e97-436b-bf35-836213369101,Notebook Freitas Vieira S.A.,Eletrônicos,876.19,40,2025-09-01 22:19:02
+8ea38dde-efad-47b5-9b97-6a16bd8a982c,Sofá Pimenta,Casa,2928.08,79,2025-09-26 19:19:29
+f90c4552-c917-41f3-8f41-19a6525eea5c,Mesa Pacheco,Casa,1294.05,324,2025-06-18 14:29:58
+aee2933d-b192-4573-bd2d-36e535ef0505,Cadeira Oliveira - ME,Casa,2000.83,158,2025-10-16 00:46:53
+4f5ab67a-6d87-4070-a855-1b412d93d70a,Mesa Montenegro Cirino e Filhos,Casa,2243.88,433,2025-06-30 19:05:57
+ce2ab136-30d6-4649-abe1-366b8096fa54,Smartphone Abreu,Eletrônicos,1600.16,473,2025-04-26 13:43:17
+a6f6c64a-b047-40a8-96bb-a8e9d790cb60,Camiseta Teixeira,Moda,254.02,311,2025-06-03 12:07:17
+84ca04a4-1dd6-41d4-84a9-a6ae15b2f059,Notebook Montenegro,Eletrônicos,3497.36,336,2025-06-11 16:46:43
+a566d6f8-218e-43e9-b9a0-ba2e21baf1d6,Sofá Vasconcelos Sampaio - ME,Casa,534.44,362,2025-10-11 04:11:33
+8b18b54e-4c34-4a13-9368-e97afa861ea8,Tablet Lima,Eletrônicos,551.08,254,2025-01-15 02:37:31
+a90a8dab-9055-4caf-95e2-05e1f682e746,Tênis Marques,Moda,282.75,421,2025-01-04 20:40:16
+34340c01-ec94-47e1-b87d-b2dbd6884339,Mesa Lopes Gomes - ME,Casa,667.5,64,2024-10-26 15:18:13
+8950b75a-9443-4e84-bb30-07d02338c46c,Mesa Ribeiro,Casa,2252.22,60,2025-05-12 15:43:33
+d32ff940-3810-4aea-b9b0-6b2c810defa8,Notebook Montenegro,Eletrônicos,4131.99,139,2025-08-08 16:32:39
+31f64c66-b1eb-40c3-bbfa-6fdfa001fa3f,Sofá Albuquerque,Casa,936.26,499,2025-08-01 14:02:49
+c78b7dbf-909f-4a8a-b4c3-296f0be3af77,Cadeira Rodrigues e Filhos,Casa,415.8,233,2025-01-31 11:12:14
+5a65ee4b-91bd-49be-825f-9c987af3294d,Mesa Ribeiro,Casa,355.23,439,2024-11-02 15:06:56
+d3348064-c6f0-4ebe-8f18-d908555bec42,Sofá Peixoto Guerra S.A.,Casa,1229.53,130,2025-09-26 21:39:03
+fe8d726e-68be-43de-8068-d50e8ba4cfd3,Tablet Rodrigues S/A,Eletrônicos,3533.54,59,2024-10-22 23:34:47
+3ad6d11d-0462-4366-9b79-a4dcda365423,Tablet Pimenta,Eletrônicos,2789.71,22,2025-01-09 04:22:25
+ae6422fd-4d41-4289-97a9-ea4b7987d048,Smartphone Sales Casa Grande - ME,Eletrônicos,706.92,186,2025-02-23 14:34:03
+59b94c06-fba3-4ae9-ab6a-f4575dd9dbb4,Camiseta Moreira,Moda,130.53,491,2024-12-13 12:36:42
+c3c8095f-a83b-4d06-a8ed-144c56fc22ac,Tablet Gomes,Eletrônicos,4114.02,365,2025-01-11 11:24:48
+df37b22b-caf2-4b10-87a1-4f03b14ef8fb,Cadeira Pinto,Casa,1374.23,164,2025-02-04 19:58:52
+88cc8bff-d21a-4728-b3f9-b90e2c7a8b3e,Notebook Sousa Ltda.,Eletrônicos,4621.35,163,2025-03-21 01:12:48
+8643f4a7-6625-4794-bc52-6a286020d445,Camiseta Azevedo - ME,Moda,307.19,61,2025-03-27 03:47:30
+7304dfc5-e2c4-46e8-b86d-6d1004f62052,Cadeira Pacheco Novaes e Filhos,Casa,2725.43,91,2025-09-27 01:35:34
+5b76f7fc-026d-4e00-85f6-a22372379d1d,Tablet Cavalcante,Eletrônicos,4916.36,488,2025-01-26 05:11:27
+c9943919-ef9c-4a59-a5bb-68b09b12fc41,Camiseta Novaes,Moda,444.65,443,2024-11-18 18:29:12
+affc2255-15f1-434a-8728-818c4528bd84,Calça Rios,Moda,197.29,283,2024-10-29 05:18:35
+55728eee-85d8-45bf-87d6-9ae8b175fb4d,Camiseta Abreu,Moda,216.01,149,2025-04-15 10:20:18
+4c03f2e5-cbb0-4ea5-9c41-2f385e2f5da3,Mesa Teixeira,Casa,2270.81,124,2024-12-28 22:01:35
+bdae5cd2-694a-4efb-b077-b9179328f95d,Calça Fonseca S.A.,Moda,316.26,252,2025-07-14 13:48:59
+6a1505c1-62d7-48b9-98dc-7a1825faf35d,Tablet Pinto,Eletrônicos,4551.99,389,2025-06-02 13:46:06
+3853a51c-fe87-49e7-9b6d-3ec40441170b,Smartphone Lopes Moreira S.A.,Eletrônicos,528.7,209,2025-08-30 14:36:51
+a4545c6f-38ef-4c44-948a-8fc739dc4f43,Smartphone Andrade,Eletrônicos,2936.95,325,2025-07-24 17:14:06
+4714db17-3487-44a6-8f01-21b02a65c623,Sofá Ferreira S/A,Casa,2862.77,0,2025-08-03 23:23:02
+e354cf32-b796-4158-8e41-556b73df6748,Mesa Jesus - EI,Casa,2577.22,372,2025-03-17 10:01:08
+589586f5-757a-47c9-beb8-50382d402674,Camiseta Azevedo Vasconcelos S.A.,Moda,142.34,121,2025-04-29 23:57:43
+bcc74cbb-109a-49fe-95b2-89ac293e2c6b,Calça Gomes,Moda,482.53,497,2025-05-04 15:59:22
+420653b6-6045-4e09-991c-74fd6676a540,Tablet Viana,Eletrônicos,1759.21,22,2024-10-26 22:54:54
+d63bdfd6-48e5-4d71-8f3b-5dd0a6daac7e,Tablet Mendes Moreira Ltda.,Eletrônicos,2358.76,458,2025-01-06 15:38:31
+35a9a6ab-375d-4dc3-86bd-36270f9078b0,Calça Camargo da Paz e Filhos,Moda,488.55,43,2025-05-14 03:51:23
+3d1c8926-90d9-40c3-bd89-5ae22092737c,Sofá Barros,Casa,1615.2,326,2025-01-06 00:44:34
+92987afa-1f55-4535-a294-791bd12af2c9,Camiseta Mendes S.A.,Moda,316.35,31,2024-10-17 14:45:49
+03eddf5a-4dc4-4df9-80a8-b04ee7516c85,Tênis Sales,Moda,483.9,121,2024-12-25 21:34:25
+74e367ab-3407-469d-9c5d-529e125a8eaf,Calça Moura Ltda.,Moda,432.91,474,2025-04-28 12:35:50
+9173cee6-05ff-4c51-8f7b-87337b46a126,Tênis Jesus - EI,Moda,424.35,167,2025-01-19 22:48:02
+32adbcc8-4cf2-4c79-91db-628de54119f9,Calça Lima Vasconcelos - EI,Moda,172.38,38,2025-09-20 22:51:33
+d709c9d2-a731-4416-ada9-29fdf29a7a03,Smartphone Macedo,Eletrônicos,4009.72,299,2024-12-14 19:40:57
+8847f65a-ccb7-48ac-8afc-5e9b47306179,Smartphone Lima,Eletrônicos,975.46,230,2025-02-16 09:42:16
+8f25965f-4daa-4b56-85b8-94162a132912,Calça Aparecida,Moda,232.93,274,2025-09-22 22:34:03
+8c5b2548-6d1c-4c91-822e-48668b4af6ab,Camiseta Mendes,Moda,253.36,237,2025-03-01 08:11:56
+19dd3d55-5cd0-440e-bf35-dae7cebca830,Camiseta Nunes,Moda,90.69,413,2025-02-23 14:51:57
+db59f697-3c55-42e5-bd44-94b280809482,Mesa Sousa Sá Ltda.,Casa,2513.88,356,2025-01-30 20:04:36
+3ed49f7a-fb42-4ba5-9603-5c5856fe485e,Sofá Dias e Filhos,Casa,802.06,438,2025-07-20 06:12:58
+9ce103a7-9a6a-4982-861d-3bb2883968f8,Camiseta Mendes,Moda,91.05,127,2025-09-10 11:37:02
+e06d2a42-991c-4485-93df-f9e246e1d9d6,Calça Fogaça Albuquerque Ltda.,Moda,281.06,346,2024-10-30 23:23:15
+75fad3cd-04e8-424c-80f3-568f5b682f7c,Calça Sales,Moda,419.04,89,2025-08-14 01:06:36
+6c99e9fd-bfb8-4b27-b70d-65fb82a89b3d,Notebook Alves e Filhos,Eletrônicos,4345.71,284,2025-05-02 03:14:37
+d0e18ee0-1bc8-4316-b10c-b31dfe3f2d5c,Cadeira Duarte,Casa,899.59,236,2025-04-27 18:13:15
+852ebd48-95a2-4f80-b4fe-af08a46d9d65,Smartphone Cunha Fernandes - ME,Eletrônicos,1046.54,31,2025-04-18 17:17:14
+564e5589-abc6-4459-8ff1-e8ccbb8beffc,Smartphone Viana,Eletrônicos,1391.6,205,2025-04-07 07:37:19
+9a5f3ad1-2746-4fd7-a8ba-7194f37abb81,Tênis Aparecida Moura S/A,Moda,333.63,330,2024-12-11 13:04:41
+165b3e62-9c2e-4e36-aa1c-e521db94ea94,Tablet Almeida Ltda.,Eletrônicos,3137.53,469,2024-11-16 23:24:56
+c51bfae8-1cf6-4af3-85c1-d52f9129076a,Smartphone Vieira - ME,Eletrônicos,4987.23,101,2025-07-12 04:44:05
+ea441f0e-177b-448f-9d17-09bd4b0adada,Mesa Pacheco,Casa,2466.04,47,2025-01-14 01:35:32
+4cc1afac-86b4-4e4d-80f7-fbc0da330c9c,Camiseta Garcia,Moda,69.21,236,2024-10-21 17:25:18
+15c6dc3f-9bb4-4b1d-8a56-ae8e1b258c23,Smartphone Lima e Filhos,Eletrônicos,4658.59,221,2025-08-12 23:18:58
+583cc588-cf14-4d9b-895e-9862948dcffc,Mesa Fernandes e Filhos,Casa,1589.15,195,2025-02-27 15:16:05
+23566d08-b264-4d4f-b801-6ceec56ff5d9,Mesa Lopes,Casa,683.86,109,2024-11-18 07:43:13
+ad16e52d-018d-4225-ac86-3d251a097ac5,Notebook Almeida,Eletrônicos,1759.35,452,2025-07-01 01:15:13
+bbcc5b83-8a04-4932-add8-74f62ece8a75,Smartphone Ribeiro,Eletrônicos,3263.48,315,2025-06-12 17:00:32
+2a72af2b-142f-4fa8-bd2d-545c189f28ee,Tablet Aparecida S/A,Eletrônicos,1827.97,210,2025-08-31 01:36:07
+fff590af-e9b5-4ab1-955c-600bba1fa732,Mesa Farias,Casa,370.74,143,2025-05-06 07:19:00
+e0c11991-657c-4352-b15e-81edb437b4ef,Camiseta Ramos - EI,Moda,238.66,329,2025-05-19 03:33:56
+50101077-4f6c-4723-9cda-dd6a6412dc2f,Sofá Pires Mendes S/A,Casa,1966.11,410,2025-03-14 00:45:32
+05538d0d-9964-47be-a99e-99b0d5bd41a2,Sofá Rezende - ME,Casa,2970.33,400,2025-02-06 23:31:13
+f5bd730d-080d-4956-80cd-247818d46f92,Mesa Pinto,Casa,1543.12,400,2025-01-13 01:55:59
+fd6c6987-23ac-4ce6-ab4e-157bd48932b2,Calça Rezende,Moda,460.7,257,2025-02-20 21:37:44
+7cb9e4f9-3489-44e6-adad-a5956538809c,Calça Rocha S.A.,Moda,171.7,13,2025-07-31 16:32:50
+6356d752-2114-4bea-91c8-5204a2903374,Tênis Cunha,Moda,148.56,458,2025-05-10 02:42:52
+709a6c5a-93a7-4bf9-9b4b-62d1a3d177bd,Camiseta da Rocha,Moda,413.89,241,2025-04-12 15:40:10
+efd08307-b560-45c8-b3ff-419ec37c5173,Mesa da Rosa Fonseca Ltda.,Casa,2347.16,119,2025-07-25 08:56:34
+15fdba31-0da1-4faa-9215-1aa74c7cb388,Smartphone Mendonça S/A,Eletrônicos,1615.36,123,2025-04-26 01:42:55
+ce773c31-43d9-4122-9690-68e6dc8270db,Tênis da Costa Ferreira S/A,Moda,417.33,469,2025-07-29 10:31:33
+2543a4ca-6308-4f52-b9ed-f773ae86af76,Sofá Ramos,Casa,2339.34,485,2025-06-17 15:09:15
+992a2989-9122-404c-a487-e0d721769891,Tablet da Mata,Eletrônicos,4309.27,408,2025-06-09 23:15:25
+436dec8b-bf57-44e0-b535-fc2b01df3660,Calça Guerra,Moda,470.84,432,2025-06-30 05:16:06
+62451f66-530a-4036-bbb4-50102932131e,Smartphone Vargas S/A,Eletrônicos,1564.48,162,2025-07-10 04:25:30
+5cda9983-4ec5-4de6-8a41-77f82641f774,Cadeira Fogaça,Casa,1204.59,302,2025-01-02 00:31:47
+3f4900e1-7ed3-44aa-a319-0dee12938abc,Tablet da Mata e Filhos,Eletrônicos,3652.52,485,2025-10-07 00:48:53
+5620842b-9865-4870-bb47-50781082738c,Cadeira Monteiro,Casa,597.89,485,2025-06-04 12:19:06
+63cbe967-164d-45f1-bdeb-43666c5883f2,Notebook Caldeira,Eletrônicos,2939.56,89,2025-02-03 20:19:43
+534e4973-ddfc-4dc7-8ca6-09b3e1024af0,Camiseta Camargo,Moda,90.62,119,2025-07-13 12:16:27
+e991c300-8366-435f-acac-1d027952f19d,Sofá Nunes - EI,Casa,255.8,244,2025-04-18 00:43:47
+47cfd672-feb4-49d1-95b5-49bbff049583,Notebook Costela,Eletrônicos,4630.53,103,2024-11-12 13:04:42
+922aa231-96eb-45b4-8552-859c53e1978f,Notebook Pastor - EI,Eletrônicos,3726.22,470,2025-10-05 11:13:00
+b0838768-fe4e-4c44-bc4c-f0218ca5ac78,Camiseta Jesus,Moda,59.86,300,2025-10-02 01:10:57
+41afa2ed-2b31-4a6b-bab6-21e2f16729f0,Sofá Câmara S/A,Casa,2368.23,433,2025-01-08 15:13:27
+4988cb3d-500c-47d1-bf1b-abb4328263e1,Mesa Garcia,Casa,2889.56,191,2025-05-24 20:06:41
+210078c0-6d4f-43b4-ac1a-15f55824522c,Cadeira Novaes Brito Ltda.,Casa,1307.67,51,2024-11-05 15:41:39
+79bfe721-7372-4fa9-a71f-1725eaeabf50,Calça da Cunha,Moda,195.17,499,2025-02-12 14:02:22
+8832c267-a10a-454b-a2a4-b2700b8fb18c,Tablet Gomes,Eletrônicos,4769.12,405,2025-10-15 05:27:35
+e6545450-4ae5-4535-af76-4c4f128e3729,Mesa Macedo,Casa,2017.7,89,2025-01-09 07:06:10
+5fff3eaf-3df5-4229-8fbc-fb5c7335dde6,Cadeira Ferreira Câmara - ME,Casa,2141.97,475,2024-11-25 03:23:57
+2d8211a7-b3f4-4a9e-b41f-6ff4fa81123a,Mesa Guerra,Casa,825.06,301,2025-05-21 11:09:58
+310caf1a-aa8d-4118-934d-d07486547da0,Notebook Gonçalves,Eletrônicos,1880.7,352,2024-12-18 14:15:05
+05435c48-c3d6-465c-9004-8abb7596300b,Camiseta Viana Sá - EI,Moda,129.97,0,2025-02-23 05:28:37
+0064a5a4-ca32-41bc-9491-5e48e6c6828c,Cadeira Vieira,Casa,1296.48,394,2025-07-16 00:27:32
+260fd219-5737-44f2-af4c-7ad8685ed2b7,Sofá Mendonça,Casa,709.83,162,2025-01-26 23:55:27
+e8309613-bd99-4f81-9c99-dd12ff1a4eb9,Sofá Novais S/A,Casa,1991.01,53,2025-06-04 02:42:30
+c0ffd91e-7d4e-44e9-8b91-f3fd7e3babfb,Camiseta Campos,Moda,199.03,39,2025-04-04 23:39:55
+cc342ee2-dee8-4cd6-b45e-c23cd408ddb0,Notebook Rezende Câmara S/A,Eletrônicos,4920.71,85,2025-07-20 16:59:49
+37e3d7ec-c6c0-4cc0-8a6a-6f347bcb4442,Sofá Brito,Casa,2500.65,343,2025-09-22 09:40:31
+bdf3a65f-7f2c-4584-892a-7cd53a2bfd51,Cadeira da Mota S.A.,Casa,2682.63,228,2025-03-05 10:54:40
+6a7f92a2-106a-4262-a4cb-6902061e8f66,Notebook da Luz Ltda.,Eletrônicos,1443.58,354,2025-03-29 05:56:13
+9633440f-d788-4dab-adfc-5e6957daaec0,Notebook Farias,Eletrônicos,1654.96,55,2024-10-30 04:02:19
+270d7702-ad02-4bb2-b6b8-b6ff60d56f13,Sofá da Luz,Casa,334.81,224,2025-07-23 11:45:45
+ca228f80-fdc4-4f70-825c-b9523db57db3,Mesa Cirino,Casa,2913.49,452,2025-03-22 19:09:37
+229e1e12-1dc6-430c-b4f1-1db8b9221514,Calça Ferreira,Moda,446.8,179,2025-06-22 20:32:31
+8e2dee79-3e9e-4eb1-b437-d23963fc7323,Mesa Peixoto Vieira - ME,Casa,484.0,245,2025-07-13 10:31:16
+2b7e25b4-796c-453b-b180-8fbb68001867,Cadeira Siqueira,Casa,2323.08,115,2025-10-11 19:54:13
+d67c7152-4ea3-49b9-9369-89ff048e53a9,Notebook Borges,Eletrônicos,831.69,433,2025-06-14 16:49:29
+dbd66228-0382-4f87-aa93-bd4cb526d624,Notebook Câmara e Filhos,Eletrônicos,590.35,133,2025-08-11 09:18:07
+01a18b99-7d2e-49ea-b551-ee776cf872f8,Smartphone da Cunha - EI,Eletrônicos,2038.14,454,2025-04-19 11:57:55
+9cf3ec64-43a1-4063-96ff-07ff9b7f2f7a,Camiseta Carvalho,Moda,379.39,280,2024-10-24 08:00:55
+c848c7c2-235e-4b53-8541-2f1b7dfb89be,Notebook Novaes Correia - ME,Eletrônicos,3173.14,314,2025-01-14 17:40:50
+90fc1f4d-9973-4f5c-a77a-c8f55a19d2ff,Tênis Duarte,Moda,63.95,482,2025-07-12 11:45:01
+fb16878f-020f-4c79-a8d1-470510285f3e,Sofá Cavalcanti,Casa,1900.49,222,2025-08-11 00:06:25
+7246b94a-c8aa-417f-a80e-d7028e247b41,Smartphone Abreu,Eletrônicos,955.66,105,2025-07-01 04:48:30
+f70d61dd-68e2-4f95-8dfb-9f40840ea0af,Notebook da Paz,Eletrônicos,3637.39,369,2025-06-14 17:08:29
+929ba3c4-9996-4b6a-b442-ebbd70722095,Cadeira das Neves - ME,Casa,942.74,144,2025-01-20 05:09:30
+40f008c2-0b79-4230-8ece-328e8f384fd8,Camiseta Abreu,Moda,93.16,201,2025-08-03 16:50:19
+38ea7624-c00b-426b-a004-fe5828dc5174,Cadeira Sales,Casa,2551.59,78,2024-11-30 23:22:53
+cef62b28-625d-4947-b23f-27ac2bf68560,Notebook Correia,Eletrônicos,517.17,44,2025-01-27 20:14:03
+b1d846f6-b67f-4ddd-be57-8cf3aca77c1d,Tênis Fogaça,Moda,331.29,245,2025-02-18 10:02:33
+36e29c85-c9a1-4d25-bb5e-bb31dbc2f44b,Smartphone Novais S.A.,Eletrônicos,615.81,87,2024-12-08 01:28:25
+a473282f-4cb4-4dde-9df7-05a9c94a5170,Mesa Silveira,Casa,2935.76,242,2024-12-11 08:52:10
+bf92f077-1ac2-4443-bd63-efe7b7a077aa,Notebook Costela - EI,Eletrônicos,4031.94,241,2025-01-18 03:12:28
+7e36711f-6f36-479f-9422-f0b1981b1de5,Tênis Sales Ltda.,Moda,169.25,328,2025-02-19 14:00:49
+0dc3721c-38fe-49cc-9a0c-6ce07fa2f053,Mesa Oliveira e Filhos,Casa,717.67,453,2025-02-22 02:27:05
+94f1a9f5-2a66-48d7-af66-af2b4317ef69,Calça Pires Fonseca S.A.,Moda,133.96,22,2025-08-29 02:10:49
+2d67ffdf-a6ef-4b18-a8ee-bbc96603189e,Calça Abreu,Moda,259.28,115,2025-02-28 00:37:16
+42c7b458-feb9-412a-87a7-60da989590fd,Tênis Moraes Ltda.,Moda,77.74,385,2025-06-10 02:07:26
+929f03b9-a2b8-4ace-8949-e523964b1531,Cadeira Sampaio Albuquerque - ME,Casa,470.77,342,2024-12-12 19:12:59
+6a83b25f-3c64-4439-95df-d43aa2f5ccb4,Tênis Cassiano - ME,Moda,236.29,387,2024-12-24 09:54:28
+9755afde-701d-47e1-9926-3a81c1a804e9,Sofá Andrade,Casa,1750.09,430,2025-06-26 12:53:39
+d85064a8-36e7-45d4-84d0-6649a615dc7d,Tênis Ribeiro Pinto S.A.,Moda,238.38,274,2025-04-13 04:35:34
+ea0b5889-7510-4e2e-b53b-d5fa2978842c,Mesa Siqueira S.A.,Casa,1803.6,120,2024-12-11 00:11:38
+787c4bd2-47f1-4792-8fc1-e5910a80d328,Calça Castro,Moda,85.53,462,2025-03-30 12:39:30
+09e64d82-9652-45b6-8fbd-1496b9b6a7dc,Sofá Cassiano Jesus S.A.,Casa,1605.88,461,2025-03-29 14:56:53
+8c30a22c-a1a1-4e00-b731-caaf9f2516e7,Cadeira Macedo,Casa,2097.1,317,2025-01-31 03:10:28
+92dc420a-a54c-412b-b231-a7814d468338,Smartphone Montenegro,Eletrônicos,4771.65,229,2025-08-02 12:13:06
+fbc6c916-099e-4d44-94cb-ea9468af38f1,Smartphone Pacheco e Filhos,Eletrônicos,4874.74,413,2025-08-21 03:32:42
+2a570724-925f-4ebf-bf3f-fddf0029862e,Smartphone Nascimento,Eletrônicos,692.04,40,2025-10-05 19:19:59
+08655959-e8f2-456c-a6bd-7498fe67e1f3,Mesa Sá,Casa,765.37,421,2025-02-01 03:44:19
+c2b8f926-ad4b-41a6-aa3f-9e6f2170494a,Sofá Oliveira da Rocha Ltda.,Casa,2535.5,132,2025-05-26 10:19:12
+4e4f2e65-82ca-4269-97c0-ff5824a75fef,Tênis Viana Barbosa S.A.,Moda,461.38,34,2025-03-18 00:41:26
+377ad3bb-799b-4115-879c-0a634fe22158,Notebook Porto,Eletrônicos,3003.64,282,2025-09-04 20:49:23
+08e8eaae-8458-4570-aab4-ab77d174f9c8,Calça Siqueira Sá - ME,Moda,283.86,469,2025-03-15 00:42:19
+7f75bb33-44ed-4fd9-b53a-c5fba04c21eb,Tablet Santos,Eletrônicos,3303.76,267,2025-08-10 08:36:07
+8ef02293-c205-45c8-8e46-bf018972b29b,Camiseta Rodrigues Ltda.,Moda,236.5,75,2025-01-08 15:59:14
+fedbda8f-c2ea-4ff1-a251-fe761c9ca61a,Cadeira Macedo,Casa,1831.5,493,2025-06-09 16:47:55
+688bbd80-6c43-4edb-bf1c-00b727c68aff,Smartphone Teixeira Cirino S/A,Eletrônicos,3032.08,51,2024-12-25 14:19:44
+2c2188b7-38d4-4e98-bf06-4585c6d75b18,Tênis Campos,Moda,446.06,449,2025-09-11 02:51:21
+51f08b01-b3ce-4c09-802d-bcae152f0434,Calça Caldeira Mendes - ME,Moda,222.37,248,2025-05-22 16:41:54
+ba868b7b-fc4e-48a1-bf5e-f0a4493951b0,Cadeira da Cruz,Casa,1524.53,88,2025-02-04 03:28:51
+95a6eafa-2408-4dc9-b6f1-0ae5cf2386d7,Calça Novaes Rodrigues - EI,Moda,114.73,311,2025-01-05 15:13:02
+a6cd1ea4-cc05-465b-a170-5a862ea168b7,Cadeira Caldeira Rezende Ltda.,Casa,1324.82,202,2025-08-03 05:43:02
+cc6bd330-b7a7-4e3a-8728-3b7fc589621e,Tênis Moraes S/A,Moda,156.91,381,2024-11-24 04:33:57
+ef6dbb1f-bfeb-4e07-aa85-4287455165b9,Calça da Mota,Moda,453.66,10,2025-05-02 02:59:33
+e9a68aca-94f0-42ae-9fc7-82dc6210a5a7,Calça Castro S.A.,Moda,189.93,431,2025-03-20 07:51:14
+316532fa-249f-40c4-a7e1-2312046ddc03,Tênis Campos - EI,Moda,358.18,497,2025-01-05 19:22:00
+587cdc57-f2d3-4366-8fdd-6c24d5756786,Smartphone Correia,Eletrônicos,1852.16,380,2024-11-11 23:27:40
+bb6d6344-26cc-41c6-8599-b527db0378e1,Calça da Mota,Moda,171.24,213,2025-07-26 17:11:01
+ad638315-2bee-458d-9f86-c2fd7273229d,Cadeira Nunes Mendes - EI,Casa,450.0,226,2025-09-13 17:30:20
+8c4fb199-c2ad-4a02-9a21-24ebc1d26b5c,Notebook Mendonça,Eletrônicos,3834.25,388,2025-01-14 13:38:42
+c6ffc632-798a-4dfa-9127-adc993b64486,Mesa Dias - EI,Casa,2498.85,263,2025-08-06 03:39:22
+9d834918-8092-4930-8d6d-cebf9d9adb68,Smartphone Rocha - ME,Eletrônicos,1900.05,259,2025-07-26 17:14:28
+5e2050d2-356b-4ac7-a379-c58cce328432,Camiseta Montenegro - ME,Moda,401.23,268,2025-08-21 16:45:57
+4d414072-fa83-4931-8c89-b44b1592da76,Sofá Silva Garcia Ltda.,Casa,686.46,448,2024-11-07 11:07:59
+9459f1ef-7c56-470e-9edb-b478bf3360c4,Smartphone Andrade,Eletrônicos,1622.71,233,2025-09-28 21:09:40
+336343be-e29f-4841-a8a3-bf5bda06c640,Notebook Rezende,Eletrônicos,3670.85,140,2024-12-19 11:03:39
+3a5bb4a3-a565-4975-86fe-2bfc21d9d131,Calça das Neves Monteiro - EI,Moda,277.31,325,2025-06-07 02:49:42
+8b5284e6-995d-43dd-bcd7-80fc4ef6f436,Tablet Casa Grande Fernandes S/A,Eletrônicos,637.53,190,2025-06-06 20:04:58
+37db0afb-8444-4ae5-b0cf-f509cabd589c,Tênis Lima Ramos S/A,Moda,250.75,491,2025-09-26 00:42:10
+f6ccdd0d-813a-426f-a14d-f4d2cd0ac1f4,Tênis Fernandes Aparecida - ME,Moda,298.1,176,2024-12-01 11:38:22
+af5c7de9-8839-4c54-812d-3b9190d18947,Notebook Moura Ltda.,Eletrônicos,3870.33,352,2024-10-28 19:22:36
+a693b671-0193-4c85-9963-016deeb6ccaf,Notebook Mendes,Eletrônicos,623.53,25,2025-08-21 02:02:23
+48639e05-8689-4c79-96a2-a1e914916322,Tablet Rezende,Eletrônicos,4009.24,109,2024-10-23 03:28:11
+00be3d4f-22d7-428f-b11c-159d08d5330c,Tablet Santos Pimenta - EI,Eletrônicos,1513.0,105,2024-11-09 04:15:09
+c1451576-103f-4caf-a53b-7821d01aa41e,Tênis Ramos,Moda,234.28,10,2025-02-22 22:08:13
+5075443a-dfe0-4409-82f8-77f971f09ebf,Sofá Moura,Casa,1527.47,67,2025-03-10 04:54:59
+6d621769-0a00-4839-95e5-11dd735fb03e,Sofá Aragão,Casa,1883.2,4,2025-10-09 20:31:52
+9b9e7ced-6569-4d14-b58c-15f09fc30717,Notebook Leão Novaes S/A,Eletrônicos,3237.55,482,2025-07-22 07:10:37
+50a809ed-9296-4e82-b27c-4d30a47bc9f0,Tênis Camargo da Rocha S/A,Moda,485.16,329,2025-03-27 07:43:06
+ed4921c2-aa47-48eb-88d6-3f3c2b8ab9bc,Calça Melo Costa S/A,Moda,452.97,436,2025-04-26 14:39:36
+16dd4426-e744-4606-bf34-91def88521ae,Calça Barros,Moda,163.4,238,2025-09-19 00:05:38
+e8358ae5-b4fd-42a5-b40c-b4636d8127b2,Tênis Pacheco Almeida S.A.,Moda,284.29,319,2025-05-30 19:43:06
+54b7ada9-befe-4157-a6b6-5649bae36cb1,Tênis Alves Aragão Ltda.,Moda,96.04,261,2025-08-21 12:16:12
+06b74f5e-2338-41d8-9c25-2ea6a2294056,Mesa Cavalcanti,Casa,1772.08,304,2025-03-10 23:42:28
+b8488f4a-be8a-424b-add3-a456b50d82d6,Mesa Mendes S/A,Casa,1035.73,55,2025-06-04 16:55:16
+2f3f6c0d-e833-4c52-a220-3ba0ed6713ad,Camiseta Monteiro,Moda,201.33,141,2025-01-28 22:32:42
+3ae0389d-017e-4fff-b583-c189baa61abd,Mesa Rezende,Casa,2612.18,133,2025-03-29 15:27:45
+20d921c4-0346-4c0f-b260-d3fe61f321de,Cadeira Azevedo da Conceição S.A.,Casa,2866.13,333,2025-04-03 09:05:10
+7a01f7c4-53bc-46e9-ac2e-bf3f8d414b22,Camiseta Farias S.A.,Moda,117.47,391,2024-12-11 10:58:32
+a18f4f14-8fe6-48b0-8736-04bcc7e2c167,Smartphone Cavalcanti Carvalho - EI,Eletrônicos,4124.43,410,2025-03-31 08:02:50
+c7cfbae7-6fac-4235-9443-b8abfabda94f,Mesa Vargas Duarte Ltda.,Casa,2049.48,348,2024-10-30 06:29:59
+8709b285-9491-4f87-9027-a05ac0368fd9,Tablet Pastor,Eletrônicos,614.55,254,2025-06-18 16:25:56
+96f2c164-a359-4f89-92ee-5b748ac8507d,Calça Novaes Rodrigues Ltda.,Moda,458.11,207,2025-04-13 09:45:54
+8d232b61-10ba-41ac-bc1f-51741542fc5d,Tênis da Rocha,Moda,65.89,362,2025-01-10 10:11:29
+9a35f8ef-00ca-49bf-b7f3-7ded12283b3c,Sofá Montenegro - EI,Casa,1160.87,365,2025-03-12 10:53:48
+c3c2a51e-400d-42e2-ba28-b5375329ee6c,Tablet Fonseca,Eletrônicos,2905.86,401,2025-05-23 21:27:33
+768788bc-82b8-44e3-a226-dd04290a594b,Tênis Nogueira,Moda,211.32,153,2024-11-04 17:27:18
+29584a47-723c-4827-b822-e24deb0e9087,Tablet Pires,Eletrônicos,4444.23,92,2025-08-16 06:21:44
+963eab58-2fef-4e3d-aa0f-a78515325b27,Camiseta Sousa da Mata - ME,Moda,261.85,379,2025-01-03 20:03:47
+afe66abd-c27d-4410-85cb-6c1c5d009dcb,Tênis Peixoto,Moda,413.75,390,2025-08-17 23:23:52
+634f3219-56bd-40ef-97a9-acf4a94c47bd,Tablet Mendes Ferreira Ltda.,Eletrônicos,4548.16,335,2025-10-08 22:10:43
+23eeb79e-c6fa-4ae7-99a7-34add938d3c6,Smartphone Ramos,Eletrônicos,2098.78,381,2024-10-22 22:16:04
+534b346d-1cde-41d5-8769-d4fd1b8f26b6,Calça Nogueira,Moda,404.64,169,2025-01-13 19:34:31
+53b21d04-697f-4c9e-bdc5-3748d6f4a821,Calça Fonseca,Moda,313.51,237,2024-10-30 19:49:19
+fef8b8f5-36dd-41aa-9898-358ac6940cf7,Notebook Souza,Eletrônicos,741.55,324,2025-04-04 10:44:54
+31b16e2d-4a69-4303-a748-f895146497b5,Cadeira Pimenta - EI,Casa,2844.04,36,2024-11-05 11:51:34
+c776b558-4793-46b5-8688-3d8562a2654b,Camiseta Camargo Macedo S.A.,Moda,275.21,444,2024-11-20 09:18:40
+5b9be88f-c7f8-4886-aa02-c6f81ee6b47e,Mesa Vieira S.A.,Casa,1683.55,211,2025-07-23 10:12:46
+15bd7c15-ca9a-448f-b407-e5b8a965cd45,Smartphone da Paz S.A.,Eletrônicos,1118.14,102,2025-01-01 04:53:07
+bc03baf8-ce54-474f-99bd-a57d4b1b38ce,Calça Sá Ltda.,Moda,494.24,457,2025-06-19 14:53:56
+5ec397aa-33c0-454e-af8b-19a68198d7dd,Camiseta da Luz,Moda,192.37,366,2024-10-23 09:49:29
+09c96638-d5b1-4101-bc29-7671e428dcd1,Smartphone Barros Ltda.,Eletrônicos,2694.11,323,2025-03-13 20:58:12
+adb25bd9-9cf6-4113-85a6-12516b9df37d,Notebook Pinto e Filhos,Eletrônicos,3355.25,2,2024-12-28 16:53:47
+64ee2a81-06b6-4145-b603-440eba075aac,Calça Duarte Cirino S/A,Moda,144.22,396,2025-08-22 20:36:07
+3a2b924b-0e1d-47df-9e0c-608653f0bc91,Tablet Cavalcante,Eletrônicos,3940.18,250,2025-10-11 21:35:53
+bcc74837-d384-45c5-8333-3bf6b6b51719,Smartphone Aragão,Eletrônicos,3265.16,324,2025-06-24 11:00:35
+c39fc69f-9479-4ddc-b9b1-f4d3261b2e0b,Calça Barbosa Gomes e Filhos,Moda,243.06,244,2025-01-25 14:52:27
+d4370868-2558-4b3c-b95c-88bec76fe18e,Camiseta Guerra,Moda,66.98,102,2025-08-18 17:18:08
+3dcc21eb-2fd9-4f1e-8360-6e3d5a9c039b,Mesa da Conceição Camargo - ME,Casa,2860.19,456,2024-11-20 04:56:18
+702e70e5-e975-4e2c-9a30-e9b727253632,Tênis Novaes S.A.,Moda,135.76,346,2024-12-25 04:47:23
+c53c805c-3625-493b-b924-cab6f69bbe1a,Tablet Azevedo - ME,Eletrônicos,3801.21,115,2024-11-17 00:00:40
+98c3e40c-ec11-4a21-a8df-2793824d9524,Mesa Campos,Casa,1073.86,52,2025-05-24 14:12:51
+fd0a4b4b-3cd6-4835-9838-eca73a7f0662,Tênis Dias,Moda,314.9,85,2025-04-04 13:42:01
+e24e1548-f434-4331-9177-f8f68eaf1089,Smartphone Aparecida,Eletrônicos,1841.91,148,2025-02-15 20:21:13
+e70d0fe7-93b0-43f4-a7b7-bf92ff80eaf3,Tênis Pereira e Filhos,Moda,284.13,268,2025-06-06 07:02:12
+cd632ee8-0600-4c54-83d5-192adb73f8e6,Calça Alves,Moda,449.59,68,2025-05-07 01:34:56
+f8bd0a95-1288-44f1-a87b-1c6c028ed1f1,Calça Abreu Ltda.,Moda,211.66,96,2025-03-16 13:31:13
+d4eb9523-2b26-433a-9705-cc0d3c6dc36e,Notebook da Conceição,Eletrônicos,586.06,114,2025-06-06 14:28:13
+4336a25f-10fb-4715-8a74-5965fb20f4d1,Sofá Leão Câmara Ltda.,Casa,791.33,11,2025-05-23 03:27:42
+50062639-471a-4379-a05b-06549a542c88,Cadeira Melo - ME,Casa,673.16,187,2025-01-11 20:26:13
+504cb7dc-84c1-4c61-88e9-9e186bc41760,Cadeira da Luz Camargo S.A.,Casa,2417.96,192,2025-06-11 21:19:57
+fe70e5d4-5372-4a8d-b3bc-cf1cd80693c1,Mesa Cassiano e Filhos,Casa,2359.5,319,2024-12-23 12:37:42
+f1e3cfdd-c40d-4377-a4fd-254cb816b945,Tablet Mendes,Eletrônicos,4976.06,338,2025-10-14 19:59:21
+99df7386-799c-4f75-a3ef-4f7e8f8f905a,Tablet Gonçalves - ME,Eletrônicos,4262.54,24,2025-02-12 22:58:00
+42ea4aa8-1a25-4c09-91e9-1bfc5185b381,Sofá Almeida,Casa,1366.97,194,2024-12-17 05:57:37
+5eceeef6-68e0-4e70-bc2e-fd89c94d7c01,Tablet Correia Fonseca - ME,Eletrônicos,1637.32,359,2025-03-26 12:13:14
+94fe66aa-f432-4507-a411-611e76b820df,Smartphone Barros,Eletrônicos,3628.36,322,2025-06-16 07:40:58
+d5257d86-dad7-4fae-a93f-ef227f124a22,Notebook Freitas - ME,Eletrônicos,2393.92,51,2024-11-16 21:41:18
+fcb80bbe-84dc-4887-9d18-4ee295e67d2c,Cadeira Correia,Casa,955.94,310,2024-12-10 21:40:30
+451678e0-d85a-4362-9500-106706d30f2b,Sofá Rodrigues,Casa,1372.71,460,2025-06-01 14:52:50
+f1380eb5-0823-40e2-ac23-a424e46dcf0e,Tablet Sales,Eletrônicos,3734.45,60,2025-08-02 02:27:56
+6eae1375-e128-45e3-9ca1-3c24db419d82,Camiseta Castro,Moda,403.14,254,2025-03-09 12:18:14
+f47ef99f-74e5-4522-9641-36d1f7d27aeb,Tablet Dias - EI,Eletrônicos,1398.87,134,2025-04-04 09:08:11
+faef6494-7b4e-4d72-8854-642101fc5284,Sofá Guerra e Filhos,Casa,1202.18,209,2025-05-06 23:27:54
+6c991d0d-e7a4-42fe-959a-400dd573d512,Camiseta Brito Mendes S/A,Moda,67.73,254,2025-02-09 13:34:37
+cf1efe9c-75e0-4763-9091-291ecb3fa03c,Tablet Borges S/A,Eletrônicos,4699.06,169,2025-01-18 22:43:48
+d58078d0-8a42-48b1-8e53-02fd0b628628,Smartphone Camargo,Eletrônicos,557.37,45,2024-12-13 02:45:13
+ce829b64-6fb3-4170-bd6e-6e170e326c23,Tablet Fonseca,Eletrônicos,3510.6,76,2025-09-05 14:26:48
+df164dcf-544a-4f1c-94c7-634690e8cb6c,Tablet Macedo,Eletrônicos,837.72,370,2025-01-03 21:21:50
+ed47e390-b9ad-4644-9e58-1d7e36c290cd,Notebook Macedo Barbosa e Filhos,Eletrônicos,3399.52,233,2025-04-06 08:14:09
+fa368648-ac5c-4da1-a09e-7a356075092e,Calça Borges,Moda,258.92,51,2025-05-14 02:37:40
+e393c89d-faad-47ed-b754-0d825e24590b,Smartphone Rodrigues - ME,Eletrônicos,4335.12,184,2025-03-12 15:00:25
+784270d0-f9ff-4030-9b8a-3065585fd4da,Mesa das Neves,Casa,1392.79,59,2025-09-12 03:00:16
+6278b396-8d7c-451c-95d8-599c920edd93,Smartphone Rezende,Eletrônicos,543.53,70,2024-11-05 05:39:48
+1ebe0f19-55b2-4f0c-9522-902a9ecb6ba3,Cadeira Melo,Casa,677.43,183,2025-07-14 01:44:30
+36c21030-b88a-4461-a7c9-f031cff9a909,Tênis Correia Ltda.,Moda,170.74,375,2024-10-19 09:52:06
+c3aa2acf-3c55-4f4c-9be0-a9d26b70f2a5,Notebook Rezende S/A,Eletrônicos,4167.34,93,2025-09-22 12:19:50
+49fc6d4a-a3a3-409f-9d25-d2e913ade852,Notebook Borges,Eletrônicos,2301.13,233,2025-04-03 06:06:28
+bea3deeb-cb3d-4135-a014-5a57e29fd64e,Calça Caldeira,Moda,360.46,244,2024-12-31 00:59:53
+4b879bb2-fb8a-45ad-8db7-76f708e6f998,Tênis Camargo S/A,Moda,448.76,85,2025-06-19 04:08:54
+77ea424c-1067-4197-a2b6-c968b50c5ce6,Smartphone Cunha,Eletrônicos,3632.76,30,2025-04-29 02:17:51
+4e160cc6-70ce-492d-b7e0-4fa509c4a961,Smartphone Rios - EI,Eletrônicos,2372.12,302,2025-06-04 07:55:42
+a68ea508-96c0-44a3-a9c4-4d1f0e2a3031,Tênis Marques S.A.,Moda,355.28,92,2024-10-27 12:14:15
+b2a0b370-cb9f-4eeb-85bd-8089f7449ab3,Mesa Dias Melo - EI,Casa,2381.66,313,2025-03-04 17:36:30
+345a19e5-5435-4cf6-8ac7-6a5c956e45d2,Tablet da Luz,Eletrônicos,4459.78,372,2024-10-21 03:43:49
+f7f71cf3-354c-49fd-a70c-d2ea7bb38195,Notebook Nunes S/A,Eletrônicos,4641.79,57,2025-06-16 20:03:12
+85772d65-6584-4cd4-be02-eab44f3fa9dc,Calça da Rocha,Moda,70.69,133,2025-08-25 06:17:02
+e449f6a2-b4b4-430e-a764-0c2eb2f04cca,Mesa Silveira,Casa,234.61,444,2024-11-06 14:29:58
+daa6eeaf-ee49-419b-a12c-37d5f43835e8,Cadeira Novaes,Casa,2349.08,295,2025-08-12 03:44:31
+24915948-190c-42e5-88f9-3eae700036f5,Cadeira da Rocha Barbosa S/A,Casa,827.16,489,2025-03-19 12:18:57
+3622bbc5-f68c-46b1-aa77-7792835daebd,Mesa Costela,Casa,1653.48,352,2025-01-23 18:13:51
+0dc91dc3-b512-49c6-9e4b-b23f1d8e4b3f,Cadeira da Rosa Ribeiro e Filhos,Casa,466.68,338,2025-10-12 02:03:47
+585c26da-822e-4cb1-8e4d-5c1c7a47cc32,Sofá Campos Ltda.,Casa,1549.4,339,2025-09-02 13:40:29
+10e2bbc8-4fab-4c29-9d9e-635154692249,Cadeira Dias,Casa,1277.65,429,2025-09-02 05:55:24
+daec13c2-5b3a-4577-ad2d-32503edf870c,Cadeira Lopes,Casa,352.79,329,2024-12-08 11:15:06
+cfafda8c-c423-4c36-bf69-0f9f371156f0,Tablet Cardoso da Conceição S/A,Eletrônicos,4319.81,436,2025-06-08 23:44:17
+59431493-7438-4939-b4f1-7bacb9f96c50,Camiseta Cardoso,Moda,83.69,251,2025-07-14 19:51:37
+77a2ed6c-b586-4b5c-a482-f0cb575afebf,Camiseta Lima - EI,Moda,198.9,142,2025-01-20 06:45:13
+694b043d-a34c-430c-a8c7-0c44bdefa965,Tablet Câmara - EI,Eletrônicos,1502.18,329,2025-08-07 07:56:19
+ea932ff6-1290-4a68-9a76-2916f3c310b2,Calça Brito,Moda,417.7,40,2025-06-03 00:47:33
+e6046a82-85a1-4b0c-b68a-9ed4013720a7,Calça Pimenta,Moda,410.57,229,2024-12-10 01:04:06
+cd722220-5fdd-424c-8641-41d81c100e1c,Notebook Sales,Eletrônicos,2511.81,60,2025-03-20 00:47:45
+66113bcc-263c-421e-b2d8-53eece0cd028,Tênis Casa Grande,Moda,344.02,52,2024-11-09 07:10:51
+4affa2df-7178-447a-81fd-d5bd8ae75535,Calça da Paz,Moda,66.12,281,2025-03-20 19:22:01
+ab30fdbb-ef4c-434c-a611-d87e28947896,Smartphone Correia,Eletrônicos,4063.02,493,2025-07-21 17:35:12
+027647c9-330a-4b5c-9cad-392f1ce0b674,Cadeira Brito Lopes Ltda.,Casa,1052.87,260,2025-05-16 17:04:23
+e29c6d84-2df1-43a9-89c2-d4f9882546ec,Sofá Albuquerque,Casa,2032.87,233,2025-03-22 19:13:43
+1ee49836-7df3-43fd-ac40-e6a959a0ee53,Calça Ramos,Moda,421.39,418,2025-08-12 17:57:57
+a1613f10-7486-4ec7-b518-a1476d3c3781,Notebook Brito e Filhos,Eletrônicos,1993.88,392,2025-09-03 16:59:44
+5afdd68f-afaf-4a39-946a-ece0dfa00920,Cadeira Rezende,Casa,1524.77,336,2024-11-23 18:16:17
+b3ce6d3d-44d1-44dd-a8ad-ec4ffa3f6607,Tênis Ramos Rocha Ltda.,Moda,253.64,49,2025-06-07 17:27:58
+c89321e5-efea-463d-a8c9-e4dcc3c86c0c,Sofá Pires Caldeira e Filhos,Casa,206.15,181,2024-10-21 00:48:22
+e246a8d5-2564-4539-96ac-8a6efff26410,Mesa Nogueira,Casa,1733.53,191,2025-05-23 08:01:35
+e4adac3a-5551-40a1-b9bb-7b341113f4e4,Sofá Porto - ME,Casa,328.18,84,2025-04-30 06:58:10
+ba88015c-ccbb-4598-ab79-a88a8ad270d6,Camiseta Machado,Moda,419.83,380,2025-07-16 18:44:27
+7b6b483a-825d-471e-a7c2-596d3b7fb1b5,Mesa Camargo - EI,Casa,499.49,312,2025-08-05 03:38:41
+63fe7aa5-048d-4c59-bed1-ef2b3d6e9f29,Smartphone Albuquerque da Mota S/A,Eletrônicos,1043.36,436,2025-06-27 17:14:08
+f453d9f3-8b3d-4d4e-9cf6-09a6bb9487b2,Camiseta Porto,Moda,255.67,400,2025-08-26 07:30:49
+05f4d5a3-5ade-42f2-9f62-fff6cbecd130,Tablet Porto,Eletrônicos,2020.7,387,2025-01-28 05:34:33
+3003c96a-5500-4bae-bda2-9064a44aa280,Camiseta Monteiro,Moda,466.98,428,2025-01-12 12:20:09
+9c102e9e-37c1-4038-b4aa-8fce2eefb69c,Cadeira Sampaio,Casa,545.01,456,2025-01-06 02:30:38
+34493d2e-de6e-4073-8be2-83dc843035cb,Calça da Cruz,Moda,346.31,489,2025-03-23 11:37:44
+1ddf0393-6cdc-403a-992c-559feda7fd7d,Sofá Andrade,Casa,2898.79,2,2024-11-19 22:41:57
+08305627-147b-4742-b793-b9b66640d9f3,Cadeira Montenegro,Casa,336.0,478,2025-07-25 13:45:39
+cad9dfe9-10f3-402a-8340-bab92b279025,Tênis Fonseca da Costa S/A,Moda,267.32,260,2025-06-16 20:33:15
+6c40de34-ef42-41af-acd0-84f72217b100,Tablet Dias,Eletrônicos,3103.49,374,2024-11-03 12:15:34
+83773389-dd78-4e8e-96a0-16aab176637c,Smartphone Vieira - EI,Eletrônicos,2243.33,307,2025-01-02 22:51:49
+fe84bcde-b766-4c64-ac7d-e47dae4121d5,Mesa Barros e Filhos,Casa,1611.51,196,2024-11-27 21:45:33
+1d529652-2d11-4e54-931c-b95ff6345bb3,Tênis Pinto,Moda,462.16,390,2025-03-10 23:55:09
+3d265b33-5cf1-46db-a441-c9f723c4037c,Notebook da Mata,Eletrônicos,2290.41,175,2025-06-09 00:06:51
+cad200d3-74a1-478b-a67b-7758029acfcb,Calça Cavalcante,Moda,412.16,70,2025-05-10 22:19:18
+2154b3a1-1791-45ab-b2da-5ae8d0255f1c,Tênis Silveira,Moda,365.01,383,2025-07-31 10:41:23
+bcc628a5-e1cb-4419-84fc-ae28cc1f2dec,Mesa Andrade,Casa,2560.61,280,2025-05-23 11:01:09
+4dd37102-68e8-4d10-b431-9d14dff07ee2,Tênis Oliveira,Moda,381.57,283,2024-12-11 15:13:37
+aee86ac7-3ec8-47df-8e1e-67eb9d2b1627,Sofá Moura Ltda.,Casa,762.49,319,2025-03-28 22:10:54
+89b7f8b8-06c4-4fca-acd2-34f8923db4bf,Mesa Gomes Gonçalves - EI,Casa,2122.51,471,2024-11-03 19:40:27
+43ba8cec-8696-4d2e-a54c-e86baac06613,Sofá Sousa Pereira - EI,Casa,2947.74,332,2025-06-05 15:50:25
+23ae3580-86d0-43f4-83cf-2edcec18bb95,Tablet da Paz Barbosa - ME,Eletrônicos,2941.21,326,2025-09-24 23:39:41
+59e83b2c-ffb2-4e52-8ec4-9c1f795bed50,Tênis Borges - EI,Moda,101.93,180,2025-02-20 04:29:35
+5a0a2fc5-ab14-456d-bad7-a941d7758f10,Mesa Andrade,Casa,1831.86,482,2025-08-09 10:48:54
+3859faa9-9500-43eb-baed-59f1a46d20ef,Cadeira Cavalcanti,Casa,1368.94,382,2025-07-13 20:27:14
+a018c391-2277-49be-896b-592ae9e6f40e,Mesa Moraes - EI,Casa,2656.94,216,2025-10-15 19:11:09
+3d323934-3874-4d01-a6ca-aa658752baf6,Tablet Gonçalves - EI,Eletrônicos,979.12,195,2025-08-04 13:00:58
+7d1eaf19-4ae1-4a3f-a18d-bc303bbf8e97,Smartphone Teixeira S/A,Eletrônicos,3516.14,102,2024-12-10 12:19:58
+5d5d8b30-2f38-4c0c-bd01-35130135881b,Camiseta Marques - EI,Moda,492.59,349,2025-02-15 00:57:51
+644ced33-6454-497a-8ebf-f47ebdb29b7e,Camiseta Novaes Cassiano S.A.,Moda,427.72,353,2025-01-01 06:32:47
+7b67c269-64a5-4c91-8e51-11109e5756e1,Camiseta Cirino Ltda.,Moda,389.12,16,2025-03-08 04:49:45
+a92c9476-e2da-41b9-8a49-65a2b37ae354,Calça Carvalho,Moda,96.12,444,2025-02-20 03:30:06
+2392871e-83f8-4cd0-a86d-b6b6d2497d21,Cadeira Moreira Ferreira - ME,Casa,1773.28,114,2024-11-30 17:21:07
+94c779c0-f575-4b13-962d-cd8d0e9014d1,Cadeira Sales Marques e Filhos,Casa,1771.56,121,2024-11-28 02:35:47
+221c5d2d-3f92-4c2e-a5b2-40074bd4a099,Cadeira Borges,Casa,1005.39,340,2024-12-24 21:35:08
+dfe556ce-d6c9-4978-bb8f-e9229f4273f4,Notebook Monteiro Rezende e Filhos,Eletrônicos,2244.0,489,2025-04-15 07:52:58
+f6116a04-a790-4129-86df-39210681fa92,Mesa Costa Dias e Filhos,Casa,2904.33,27,2025-04-14 08:30:40
+31d51525-1acf-4f21-b12b-55f033bc5282,Tablet da Cunha,Eletrônicos,1631.04,317,2024-12-21 09:35:51
+05647d9c-4c4a-41a1-8913-1f9f258d61f3,Camiseta Rocha Ltda.,Moda,460.17,360,2025-07-07 13:17:42
+dd18f57d-8f48-4248-84de-e1145be11bf2,Cadeira Pereira Ltda.,Casa,1229.68,301,2024-12-23 07:30:32
+42fff214-7697-4108-85a8-789cbb45c9bd,Cadeira Peixoto,Casa,1889.48,397,2025-01-11 18:56:07
+21cad115-6226-49af-929d-8930b1255f51,Sofá da Luz,Casa,1023.7,90,2024-11-26 13:50:02
+2d8f8473-91ce-4c51-ad84-4f5decd155a1,Sofá Azevedo,Casa,723.53,88,2025-05-30 06:30:18
+2b09404f-44a3-4bb1-b329-aa560e717699,Cadeira Casa Grande,Casa,534.19,20,2025-02-18 17:52:10
+b6e6da45-baca-4a60-87b3-ec2c8ad4b8ac,Calça Nunes,Moda,300.47,66,2024-12-05 08:17:04
+0c4ab5c4-4d66-4ba5-a50e-7744962bc444,Tablet Câmara,Eletrônicos,4307.06,2,2025-09-29 12:29:17
+747bc4a4-2e78-469a-ac2e-b3444733b774,Calça Vargas - EI,Moda,369.36,79,2025-02-26 16:34:57
+c7f9acdc-aa91-4d27-b25f-66393d4d5c76,Smartphone Monteiro,Eletrônicos,4678.83,305,2025-05-26 16:26:25
+bed40231-3612-422c-84d6-e4bedcfeedd8,Tablet Gonçalves da Rocha e Filhos,Eletrônicos,3270.24,338,2025-07-29 22:24:07
+cd76422e-6cb6-4124-81ae-2139fc01b483,Calça Costela,Moda,405.46,281,2025-04-02 19:48:55
+3a7ef65d-e42b-4f32-9a79-914ead50a201,Camiseta Marques,Moda,402.81,162,2024-12-10 02:25:10
+cf3f98ea-2eec-4d86-a3bd-ac35bf38c383,Sofá Lima e Filhos,Casa,2879.57,266,2025-07-30 08:40:58
+ff679523-237a-417a-9971-082062e676ec,Tablet Cardoso - EI,Eletrônicos,1217.17,278,2024-12-09 23:08:27
+6a719241-c061-4989-8f77-6f9254e3fd0c,Mesa Duarte Caldeira S/A,Casa,457.45,113,2025-06-14 15:28:02
+80a7bf56-698b-4978-81ef-c08d83be07ff,Tablet da Costa e Filhos,Eletrônicos,1993.48,184,2024-12-31 11:20:55
+7c21d28e-8fc2-49f9-ad0e-4fd6e28db6b9,Camiseta Alves - ME,Moda,477.64,316,2025-02-13 13:20:28
+61fe965f-5b7a-4fa4-9021-b134136adad6,Mesa Teixeira,Casa,2990.57,421,2025-06-20 17:47:06
+cc8fe075-3d16-4d6e-a084-791ce282b06f,Sofá da Luz Guerra - EI,Casa,521.22,177,2025-01-26 13:35:38
+543d2a21-5608-45c1-97e2-ac841c819f64,Camiseta Silva,Moda,457.02,314,2025-07-10 22:33:39
+69b50ee4-820a-49a6-94be-29a0fc716a42,Sofá Cavalcante S.A.,Casa,2884.91,349,2024-12-06 14:53:50
+4f55bc55-7d75-40a8-a46c-c899119571b3,Calça Cirino da Conceição S.A.,Moda,462.17,483,2025-09-12 17:29:22
+696706f1-beb7-49c1-b8fa-08addf577e58,Notebook Viana,Eletrônicos,1654.66,370,2025-01-15 17:42:15
+8ffd19d2-e9fa-49ec-9c4b-2cebf1060867,Camiseta Santos,Moda,460.1,420,2025-08-26 20:08:23
+dc1ac447-d8ad-4bee-a665-ef344cba28d3,Tênis Araújo,Moda,411.27,228,2025-09-25 10:22:05
+ca700490-0fff-4c01-ad3d-1fdceffe2400,Camiseta Costela,Moda,183.4,333,2025-05-18 06:34:39
+c0a7385f-983b-4db8-8b0c-b53b5edb9bd3,Notebook da Cruz - ME,Eletrônicos,2812.53,485,2024-10-21 01:17:39
+d5876182-f1d1-4436-bb25-839bdc036630,Smartphone Novais,Eletrônicos,4872.33,395,2025-09-02 08:47:00
+483e926d-bd6c-4630-a1bc-98b6d9011759,Cadeira Mendes Pinto S.A.,Casa,220.53,33,2024-11-30 22:40:35
+4b522bf5-30d4-42bc-939d-b1451e0e6327,Tablet Lima e Filhos,Eletrônicos,3332.82,109,2025-05-06 23:56:50
+14ab9af8-aba8-4a69-847d-51eaedf24ffd,Mesa Garcia Rezende S/A,Casa,2539.86,105,2025-04-23 02:35:48
+e7b6d58b-c416-49f4-bd7d-2e6f32af281f,Cadeira Machado Azevedo Ltda.,Casa,2660.18,379,2024-11-24 16:02:34
+57d97d86-5639-4388-bcb1-2aed7f8e0796,Tênis Barbosa Machado - EI,Moda,417.54,36,2025-02-03 20:22:20
+e23072b4-807e-4b7a-906f-f878fecd82f1,Cadeira Nogueira Abreu S.A.,Casa,630.51,235,2025-03-27 22:57:18
+66fe3e2d-6471-418e-847a-121e94234584,Mesa Rezende,Casa,306.08,37,2025-03-25 13:10:19
+2ffbdc6a-d771-44bc-8144-782eee510ad3,Smartphone Nogueira Campos S/A,Eletrônicos,4073.97,285,2025-01-06 06:19:42
+db6834f1-5520-4da0-bb45-45d6a82be07f,Tablet Machado Araújo e Filhos,Eletrônicos,4197.29,466,2025-01-16 01:54:40
+a7b366b5-2382-4403-88de-78e743b88382,Calça Gonçalves,Moda,224.61,322,2024-12-17 10:30:30
+bda8b303-a6c4-46f3-8f78-677530bf7a71,Calça Dias,Moda,192.38,199,2025-02-06 09:38:50
+ffc8770b-3447-4f15-ba97-d4a750fa1597,Sofá Mendonça,Casa,1697.54,328,2025-09-03 22:57:47
+43640076-22ff-4a99-88bc-f8b1f402f028,Cadeira Albuquerque Ltda.,Casa,377.07,381,2025-09-15 10:33:30
+1a980d8d-ed94-41bc-abd1-bfe343b073ce,Sofá Duarte,Casa,2162.47,37,2025-06-11 02:30:02
+29c0a599-500a-4635-9edb-378658c96bce,Tênis Costela da Luz - EI,Moda,97.76,402,2025-07-07 23:03:29
+03a40932-5cab-4c32-b45b-bfc6d0102e2f,Mesa Vasconcelos - EI,Casa,1898.38,144,2024-10-26 17:07:45
+d5ee82f4-0d94-4680-a4fe-ebbb9321caa3,Calça Nunes Rezende e Filhos,Moda,227.8,338,2025-01-09 13:18:25
+7319397c-87c5-4967-8cb4-03c0ab5224f2,Notebook Araújo,Eletrônicos,1203.46,112,2025-08-07 01:36:40
+b8a119be-8f34-4340-868b-6bf1c06674e0,Tablet Siqueira Nascimento Ltda.,Eletrônicos,2259.47,408,2025-04-14 10:45:49
+0d22100e-eda5-4aad-a093-ced82a1d2eb0,Mesa Fernandes Moraes - ME,Casa,2888.38,73,2025-07-12 15:04:02
+fa784c1e-da8f-4dc9-8e0e-30616ff85a42,Tênis Martins Azevedo Ltda.,Moda,449.14,494,2025-03-21 08:20:42
+9843e802-3d82-4d7a-ac7c-2badbc96100f,Cadeira Brito,Casa,1244.77,486,2025-02-10 23:34:41
+7a41b5bd-f379-4593-b5d0-e3f25cb87937,Tablet Cunha Souza S/A,Eletrônicos,4436.45,72,2025-03-28 16:21:28
+2e2763d8-01b6-47d6-acc2-8a76c89963b3,Smartphone Garcia - ME,Eletrônicos,522.63,305,2025-03-17 16:01:20
+86142832-9c41-4f4c-be5e-de6a38ed9b6e,Tênis Araújo,Moda,296.39,43,2025-06-09 03:20:35
+c4257205-c316-4be2-94fb-d033d6f5ab62,Camiseta Cunha,Moda,386.73,462,2025-07-23 07:17:10
+d548ed49-8a6c-4a8d-a0b5-82df288ab2d8,Mesa Borges Brito - EI,Casa,792.86,463,2025-07-31 18:47:47
+5c39522e-5754-4ae7-a71c-d2ce47ea8361,Cadeira Silva - ME,Casa,598.87,94,2025-06-28 06:03:12
+05ffc05d-23f2-4ef2-b1fc-947039293cf0,Tablet Pastor Ltda.,Eletrônicos,4256.37,99,2025-02-16 18:21:30
+1e3b9a10-c2f7-4469-9151-78224682e96b,Smartphone Alves Peixoto S.A.,Eletrônicos,3519.4,290,2025-04-13 16:31:42
+cb836013-1474-4a3d-996b-2d833615848e,Tablet Correia Ltda.,Eletrônicos,2575.69,281,2025-06-23 22:46:00
+e8830755-c845-4919-9556-79005b33e2b6,Notebook Mendonça Monteiro - EI,Eletrônicos,3522.58,128,2024-11-13 21:08:34
+a0fff58d-16b6-4f7b-bd74-29a27dcf0b07,Smartphone Albuquerque,Eletrônicos,3765.15,249,2025-07-26 08:58:29
+df456dfa-40c6-47d5-9d25-8ac8e794c29d,Calça Mendonça Oliveira e Filhos,Moda,107.7,335,2025-06-11 21:04:21
+f7f10dc5-7654-4876-bb85-bd429046323e,Smartphone Leão S/A,Eletrônicos,1783.12,35,2025-08-08 19:29:47
+4796bc98-28dc-4c9a-bbc0-e7e7de366c90,Notebook Aragão Albuquerque Ltda.,Eletrônicos,2686.38,168,2025-10-11 10:37:25
+bd9f11f1-cbf7-4d91-9b30-f37d01e7729b,Cadeira Moreira,Casa,1055.89,299,2024-12-03 00:36:39
+69332563-a959-4073-8af6-dbc7efc232a0,Tablet Casa Grande,Eletrônicos,3050.88,413,2025-08-07 05:48:31
+f7b29462-3d9b-4c2c-98b1-281135a77add,Calça Cirino,Moda,125.89,160,2025-08-15 03:48:08
+c98491bd-ecff-4668-a020-52e51fc94b5a,Smartphone Sales,Eletrônicos,3704.9,328,2025-02-02 17:50:09
+97a7328d-796b-42a8-b332-063066181a82,Calça Lopes,Moda,428.05,68,2025-05-08 19:39:58
+de366c28-f6c8-4b6c-b2e6-9a412592208b,Cadeira da Cruz,Casa,1128.38,245,2024-12-09 13:00:01
+0cb8345f-3efc-4745-8451-ef265668997b,Calça Araújo,Moda,211.43,156,2025-07-24 02:45:00
+057556b3-04e3-4a57-8400-4ad873648dd6,Tênis Carvalho,Moda,98.97,330,2025-05-14 21:38:27
+ebd7c165-3e8f-498c-8dc4-b72a29f16322,Sofá Farias e Filhos,Casa,2557.02,439,2025-09-07 03:53:05
+d438ac48-c8a9-4f2d-8b62-f994720b1020,Tablet Macedo,Eletrônicos,1383.94,375,2025-06-01 16:52:08
+beca49d9-4ace-4fbc-954a-309697ff311b,Sofá Cardoso S/A,Casa,2236.79,456,2025-08-10 03:52:55
+11e6c626-ef67-453d-a9fc-03c8df84685e,Tablet Souza Siqueira S/A,Eletrônicos,3342.32,416,2025-05-31 15:40:54
+19fda718-5681-43ff-8cbd-3b77a628ed19,Cadeira Novaes,Casa,1334.38,302,2025-08-09 12:37:17
+a41cf8f1-d3be-48a8-a6d7-d33591b72cb3,Smartphone da Conceição Ltda.,Eletrônicos,2982.17,278,2025-06-27 15:41:28
+4ca76754-4794-43c8-834c-748a36691ba5,Mesa Albuquerque,Casa,2030.94,76,2025-09-17 20:35:56
+a380441c-5210-4cb4-ab4d-0471af0a604d,Calça Nunes - EI,Moda,150.49,395,2025-07-18 21:54:40
+9b9f43d0-bc6b-4fc8-a4dd-9695d58a62a1,Cadeira Nogueira,Casa,2600.06,68,2025-08-26 16:34:09
+ab57e68f-dd4f-42d6-87d8-1f2c8001bb58,Tênis da Mota,Moda,279.69,203,2025-02-11 05:46:02
+80c741eb-addc-41e0-bc87-812dc93aa95e,Tênis Santos,Moda,54.77,122,2025-03-28 20:18:11
+3d7a298d-84ed-4f5d-a4ee-6dcd48c35422,Cadeira Siqueira - ME,Casa,664.36,263,2025-01-20 22:46:51
+353939aa-0085-4372-8db6-b4e2ea69e72f,Notebook Andrade Dias Ltda.,Eletrônicos,1216.5,289,2024-11-05 23:25:55
+c08a42e5-1da2-43c7-be37-62303ceaff68,Cadeira Barros,Casa,2642.15,74,2025-10-07 08:16:03
+3501586b-ec1f-4027-8822-790861298685,Cadeira Sales,Casa,1553.81,183,2025-06-16 22:29:07
+4d5e7102-4a95-4e94-ba96-53fa2a6b4fac,Smartphone Mendes,Eletrônicos,3926.63,118,2025-08-03 23:54:44
+3a480d90-65a1-40be-ba0a-bc5baf9ad3d3,Notebook Albuquerque,Eletrônicos,2162.46,21,2025-05-10 16:20:10
+4c7c6ef2-e8aa-4bf1-ab7f-587146ee2ea6,Sofá Aragão Camargo e Filhos,Casa,1650.08,405,2025-03-09 10:29:33
+7dfc9870-4acc-47e6-abdf-b270921dd790,Calça Dias,Moda,261.35,232,2025-05-24 08:32:30
+bfc35afe-c962-43df-9fe6-d43fd374b996,Smartphone Andrade Alves S/A,Eletrônicos,4912.65,165,2025-01-06 12:51:23
+0b4032be-0351-42a3-91d0-2f42101f6d48,Tablet Pires,Eletrônicos,4857.99,324,2024-11-14 08:13:28
+c08957ad-9840-4b1f-a271-f5dbddf0a841,Tênis Ferreira e Filhos,Moda,168.49,278,2025-06-03 11:36:03
+43c82356-aa0c-4b46-b2fc-dd3933bed073,Sofá Gomes e Filhos,Casa,1254.65,193,2025-04-09 13:18:20
+4017e5e4-80ba-4e55-a15c-3abf5fdd9168,Tênis da Cunha Ltda.,Moda,344.0,427,2025-09-29 22:13:08
+2f8d8d2a-e3fe-4cb5-b4dd-ca8162fae3be,Tablet das Neves,Eletrônicos,1632.14,498,2025-04-24 07:22:23
+1743f2aa-53e3-4daf-8844-fd3f4151f1ec,Tablet Aragão S/A,Eletrônicos,2326.29,418,2024-10-31 09:02:22
+3153a010-8893-4ca2-90ed-9f1ce9c0c4e0,Calça Andrade,Moda,406.7,454,2024-10-24 21:52:13
+1d98b302-ead9-4601-b663-6b436989d36a,Sofá da Cunha,Casa,1605.14,71,2025-08-22 21:01:01
+e6d7cc6c-da19-4d77-821d-8e311a9c4257,Camiseta Pinto,Moda,153.5,263,2025-04-03 10:06:05
+ceb116ca-40fa-4dfe-a237-678e6014cd4f,Mesa da Rocha Siqueira - EI,Casa,792.25,95,2025-08-08 10:32:26
+713783b8-9726-4b4b-8bb3-07a4c26c88d2,Notebook Cavalcante,Eletrônicos,3209.09,418,2025-02-25 15:33:38
+9421c726-04de-4f24-92e4-80acacdab154,Tablet da Paz - EI,Eletrônicos,1536.56,415,2025-05-16 21:13:39
+7c25ed4e-1a09-4cd6-8c80-43cb3378f5ec,Tênis da Paz Gonçalves - ME,Moda,101.0,345,2024-12-04 20:05:52
+0686ac9a-5f7f-4c1f-9b14-c5d1ea0bae0f,Calça Lima,Moda,144.82,82,2024-11-07 19:08:48
+fb4899ed-7b43-4cd1-8ba1-958b7ec213cd,Mesa Moura Aparecida e Filhos,Casa,262.85,22,2025-04-06 13:03:15
+d6d9f3bc-ec4a-4de1-aefe-f9b225df74a0,Tablet Sousa,Eletrônicos,3165.56,68,2024-11-14 14:11:57
+b5d9c306-ff2d-4bd2-9fcc-1c576c26fc6b,Cadeira Cavalcante e Filhos,Casa,309.73,293,2025-09-07 15:40:02
+4ccd0478-bdd7-4805-9f26-ad8c2f410553,Smartphone Fogaça,Eletrônicos,1248.54,472,2024-12-20 07:09:54
+d3362199-8c99-4bbc-bcc5-0d235fb6628b,Tablet Araújo,Eletrônicos,4812.07,306,2025-05-08 02:04:01
+7984b197-7f68-4eb4-879d-a2ba2ed32ee2,Cadeira Freitas - EI,Casa,252.14,368,2025-02-14 04:29:14
+c82d8da9-0fb6-4fa8-99c9-58b8884bff6d,Cadeira das Neves S.A.,Casa,2499.65,484,2024-11-25 10:48:06
+cd81daef-6c70-490b-a85e-d1e753b2dff8,Smartphone Macedo S/A,Eletrônicos,2521.42,241,2025-07-27 01:51:14
+d2df0ca8-25e1-4aab-a089-1080d847bc1a,Camiseta Barbosa,Moda,148.71,210,2025-06-04 12:12:23
+df3bc1c2-281d-4970-8bba-69f9f79ba1e1,Sofá Mendes,Casa,2424.92,420,2025-09-28 10:54:51
+59ec348b-bf74-497c-bc24-62332a5b6d4f,Tablet Vargas,Eletrônicos,3468.42,135,2025-10-06 05:01:07
+0d7c671d-eae5-4e45-8051-db76b8d015b2,Tablet Correia,Eletrônicos,3585.16,472,2025-08-11 15:56:26
